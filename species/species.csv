@@ -1,0 +1,720 @@
+fao_name,common_names,fda_name,taxocode,code_3a,order,family,genus,specific_descriptor
+Abalones nei,,,30703001XX,ABX,Gastropoda,Haliotidae,Haliotis,spp.
+Acadian redfish,"Ocean perch, redfish",,1780100114,REN,Scorpaeniformes,Scorpaenidae,sebastes,fasciatus
+,Acadian whitefish,,"",FS-322,Salmoniformes,Salmonidae,Coregonus,huntsmani
+Acoupa weakfish,,,1703701601,YNA,Perciformes,Sciaenidae,Cynoscion,acoupa
+Aesop shrimp,"Striped shrimp, striped prawn, pink shrimp",,2280400205,AES,Natantia,Pandalidae,pandalus,montagui
+Alaska plaice,,,1830200408,ALP,Pleuronectiformes,Pleuronectidae,Pleuronectes,quadrituberculatus
+Alaska pollock,"Walleye pollock, pollock, Минтай.",,1480401601,ALK,Gadiformes,Gadidae,Gadus,chalcogrammus
+Albacore,,,1750102605,ALB,Scombroidei,Scombridae,thunnus,alalunga
+Amberjacks nei,,,17023048XX,AMX,Percoidei,Carangidae,Seriola,spp.
+American angler,"Monkfish, Goosefish ",,1950100103,ANG,Lophiiformes,Lophiidae,lophius,americanus
+American cupped oyster,"Eastern oyster, Atlantic oyster,Virginia oyster",,3160700803,OYA,Bivalvia,Ostreidae,crassostrea,virginica
+American eel,,,1430200206,ELA,Anguilliformes,Anguillidae,anguilla,rostrata
+American lobster,,,2294200701,LBA,Reptantia,Nephropidae,Homarus,americanus
+American plaice,Long rough dab,,1830201401,PLA,Pleuronectiformes,Pleuronectidae,hippoglossoides,platessoides
+American sea scallop,,,3160801404,SCA,Bivalvia,Pectinidae,placopecten,magellanicus
+American shad,Atlantic shad,,1210501103,SHA,Clupeiformes,Clupeidae,alosa,sapidissima
+American yellow perch,Yellow perch,,1701400202,FPY,Percoidei,Percidae,Perca,flavescens
+Amur catfish,,,1410703102,SRO,Siluriformes,Siluridae,Silurus,asotus
+Anchoveta,,,1210600208,VET,Clupeiformes,Engraulidae,Engraulis,ringens
+Angler,"monk, monkfish, white fish, white anglerfish",,1950100101,MON,Lophiiformes,Lophiidae,Lophius,piscatorius
+Antarctic krill,,,2260100501,KRI,Euphausiacea,Euphausiidae,Euphausia,superba
+Antarctic toothfish,,,1709201501,TOA,Percoidei,Nototheniidae,dissostichus,mawsoni
+Araucanian herring,"Chilean herring, sardine, sardina común (Spanish)",,1210507801,CKI,Clupeiformes,Clupeidae,Strangomera,bentincki
+Arched razor shell,,,3161600501,EQK,Bivalvia,Solenidae,Ensis,magnus
+Arctic char,,,1230101005,ACH,Salmoniformes,Salmonidae,Salvelinus,alpinus
+Arctic surfclam,"Stimpson's surf clam, hokkigai",,3161110001,IFM,"",Mactridae,Mactromeris,polynyma
+,Arctic wedgeclam,,"",FS-461,"",Mesodesmatidae,Mesodesma,arctatum
+Argentine anchovy,,,1210600206,ANA,Clupeiformes,Engraulidae,engraulis,anchoita
+Argentine croaker,"Ombrine d'Argentine, Verrugato pargo",,1703707003,CKY,Perciformes,Sciaenidae,Umbrina,canosai
+Argentine hake,,,1480500406,HKP,Gadiformes,Merlucciidae,merluccius,hubbsi
+Argentine red shrimp,"Camarón langostín argentine, Camarón oceánico",,2282900601,LAA,Natantia,Solenoceridae,pleoticus,muelleri
+Argentine shortfin squid,,,3210501003,SQA,Cephalopoda,Ommastrephidae,illex,argentinus
+Argentine stiletto shrimp,,,2280106701,ASH,Decapoda,Penaeidae,Artemesia,longinaris
+Arrow-tooth flounder,,,1830200801,ARF,Pleuronectiformes,Pleuronectidae,atheresthes,stomias
+Asian moon scallop,Asian scallop,,3160800502,UMP,Bivalvia,Pectinidae,amusium,pleuronectes
+Asian swamp eel,,,1680200101,FLT,Synbranchiformes,Synbranchidae,Monopterus,albus
+Asiatic hard clam,,,3161101702,HCA,Bivalvia,Veneridae,Meretrix,meretrix
+Atka mackerel,Atka Mackerel,,1780701403,HUM,Scorpaeniformes,Hexagrammidae,Pleurogrammus,monopterygius
+Atlantic Spanish mackerel,Spanish mackerel,,1750101507,SSM,Scombroidei,Scombridae,scomberomorus,maculatus
+Atlantic bay scallop,Bay scallop,,3160803002,SCB,Bivalvia,Pectinidae,argopecten,irradians
+Atlantic bluefin tuna,,,1750102601,BFT,Scombroidei,Scombridae,thunnus,thynnus
+Atlantic bonito,"Atlantic bonito, Bonito (Spanish), Serra (Portuguese)",,1750100101,BON,Perciformes,Scombridae,Sarda,sarda
+Atlantic bumper,,,1702326801,BUA,Percoidei,Carangidae,chloroscombrus,chrysurus
+Atlantic chub mackerel,Chub mackerel,,1750100209,VMA,Scombroidei,Scombridae,Scomber,colias
+Atlantic cod,,,1480400202,COD,Gadiformes,Gadidae,Gadus,morhua
+Atlantic croaker,,,1703703804,CKA,Percoidei,Sciaenidae,Micropogonias,undulatus
+Atlantic ditch shrimp,,,2281200705,PVR,"","",Palaemonetes,varians
+Atlantic halibut,,,1830200201,HAL,Pleuronectiformes,Pleuronectidae,hippoglossus,hippoglossus
+Atlantic herring,,,1210500105,HER,Clupeiformes,Clupeidae,Clupea,harengus
+Atlantic horse mackerel,,,1702300401,HOM,Percoidei,Carangidae,Trachurus,trachurus
+Atlantic jackknife,Atlantic razor clam,,3161600502,CLR,Bivalvia,Solenidae,Ensis,directus
+Atlantic mackerel,,,1750100205,MAC,Scombroidei,Scombridae,Scomber,scombrus
+Atlantic menhaden,,,1210502403,MHA,Clupeiformes,Clupeidae,Brevoortia,tyrannus
+Atlantic redfishes nei,,,17801001XX,RED,Scorpaeniformes,Scorpaenidae,Sebastes,spp
+Atlantic rock crab,,,2310901003,CRK,Brachyura,Cancridae,cancer,irroratus
+Atlantic salmon,,,1230100401,SAL,Salmoniformes,Salmonidae,Salmo,salar
+Atlantic seabob,,,2280102201,BOB,Natantia,Penaeidae,xiphopenaeus,kroyeri
+Atlantic silverside,,,1630201302,SSA,Atheriniformes,Atherinidae,Menidia,menidia
+Atlantic surf clam,Atlantic surfclam,,3161202001,CLB,Bivalvia,Mactridae,spisula,solidissima
+Atlantic wolffish,"Seawolf, Atlantic catfish",,1710200101,CAA,Zoarcoidei,Anarhichadidae,anarhichas,lupus
+Australian blacktip shark,"Blacktip shark, Australian Blacktip",,1080201032,CCU,Carcharhiniformes,Carcharhinidae,carcharhinus,tilstoni
+Australian mussel,,,3161000117,MYA,Bivalvia,Mytilidae,Mytilus,planulatus
+Australian spiny lobster,,,2290100115,LOA,Reptantia,Palinuridae,panulirus,cygnus
+Ayu sweetfish,,,1230301601,PCA,Salmoniformes,Plecoglossidae,Plecoglossus,altivelis
+Bali sardinella,,,1210501223,SAM,Clupeiformes,Clupeidae,Sardinella,lemuru
+Ballyhoo halfbeak,,,1470300406,BAL,Beloniformes,Hemiramphidae,Hemiramphus,brasiliensis
+Banana prawn,banana prawn,,2280100103,PBA,Natantia,Penaeidae,Penaeus,merguiensis
+Barcoo grunter,,,1700401002,QOF,Percoidei,Terapontidae,Scortum,barcoo
+Barracudas nei,(multispecies),,17710001XX,BAR,Other Perciformes,Sphyraenidae,Sphyraena,spp.
+Barramundi,Giant seaperch,,1700116701,GIP,Percoidei,Centropomidae,lates,calcarifer
+Barred sand bass,cabrilla,,1700240501,AXN,Perciformes,Serranidae,Paralabrax,nebulifer
+Bastard halibut,,,1830804601,BAH,Pleuronectiformes,Paralichthyidae,Paralichthys,olivaceus
+Beaked redfish,,,1780100112,REB,Scorpaeniformes,Scorpaenidae,Sebastes,mentella
+Bearded brotula,deepwater soapfish,,1580200502,BRD,Ophidiiformes,Ophidiidae,Brotula,barbata
+Benguela hake,,,1480500408,HKB,Gadiformes,Merlucciidae,Merluccius,polli
+,"Bering cisco, Lauretta whitefish",,"",FS-2012,Perciformes,Percidae,Coregonus,laurettae
+Big blue octopus,"Gros poulpe bleu, Day Octopus, Cyane's octopus",,3210900504,OQC,Octopoda,Octopodidae,Octopus,cyanea
+Big-scale sand smelt,,,1630200301,ATB,Atheriniformes,Atherinidae,Atherina,boyeri
+Bigeye scad,,,1702329101,BIS,Percoidei,Carangidae,Selar,crumenophthalmus
+Bigeye tuna,,,1750102612,BET,Scombroidei,Scombridae,thunnus,obesus
+Bigeyes nei,(multispecies),,17011026XX,BIG,Percoidei,Priacanthidae,Priacanthus,spp.
+Bighead carp,,,1400204302,BIC,Cypriniformes,Cyprinidae,Hypophthalmichthys,nobilis
+Bight redfish,"Golden Snapper, King Snapper, Nannygai",,1610201202,CXZ,Beryciformes,Berycidae,centroberyx,gerrardi
+Black carp,,,1400214401,BKC,Cypriniformes,Cyprinidae,Mylopharyngodon,piceus
+Black drum,,,1703721002,BDM,Percoidei,Sciaenidae,pogonias,cromis
+Black grouper,,,1700204001,MAB,Percoidei,Serranidae,mycteroperca,bonaci
+Black oreo,,,1620400701,BOE,Zeiformes,Oreosomatidae,allocyttus,niger
+Black pomfret,,,1702309901,POB,Perciformes,Carangidae,Parastromateus,niger
+Black rockfish,,,1780100132,RMG,Scorpaeniformes,Scorpaenidae,sebastes,melanops
+Black scabbardfish,,,1750601201,BSF,Scombroidei,Trichiuridae,aphanopus,carbo
+Black seabass,,,1700208102,BSB,Percoidei,Serranidae,centropristis,striata
+Black seabream,,,1703906302,BRB,Percoidei,Sparidae,spondyliosoma,cantharus
+Black stone crab,Stone Crab,,2311005001,STC,Brachyura,Xanthidae,menippe,mercenaria
+Black-dotted grouper,,,1700204271,EIT,Percoidei,Serranidae,epinephelus,stictus
+Blackbellied angler,"monk, monkfish",,1950100102,ANK,Lophiiformes,Lophiidae,Lophius,budegassa
+Blackbelly rosefish,,,1780101703,BRF,"","",Helicolenus,dactylopterus
+Blackfin goosefish,"monkfish, peixe-sapo",,1950100107,MVJ,Lophiiformes,Lophiidae,lophius,gastrophysus
+Blackfin tuna,,,1750102604,BLF,Perciformes,Scombridae,Thunnus,atlanticus
+Blackspot seabream,Red seabream,,1703900801,SBR,Percoidei,Sparidae,pagellus,bogaraveo
+Blacktip shark,,,1080201003,CCL,Carcharhiniformes,Carcharhinidae,Carcharhinus,limbatus
+Bleeker smoothbelly sardinella,,,1210500501,AGC,Clupeiformes,Clupeidae,amblygaster,clupeoides
+Blonde ray,,,1100400105,RJH,Rajiformes,Rajidae,Bathyraja,brachyurops
+Blood cockle,,,3160407101,BLC,Bivalvia,Arcidae,Anadara,granosa
+Blue crab,,,2311101202,CRB,Brachyura,Portunidae,Callinectes,sapidus
+Blue grenadier,hoki,,1480501702,GRN,Gadiformes,Merlucciidae,macruronus,novaezelandiae
+Blue king crab,,,2302001802,KCI,Anomura,Lithodidae,paralithodes,platypus
+Blue ling,,,1480400502,BLI,Gadiformes,Gadidae,molva,dypterygia
+Blue mackerel,,,1750100207,MAA,Scombroidei,Scombridae,Scomber,australasicus
+Blue marlin,,,1750300505,BUM,Scombroidei,Istiophoridae,makaira,nigricans
+Blue mussel,,,3161000105,MUS,Bivalvia,Mytilidae,mytilus,edulis
+Blue shark,,,1080200401,BSH,Carcharhiniformes,Carcharhinidae,prionace,glauca
+Blue shrimp,Camarón azul,,2280100110,PNS,Natantia,Penaeidae,Penaeus,stylirostris
+Blue squat lobster,"Langostino amarillo, Yellow squat lobster",,2301900301,CZJ,Anomura,Galatheidae,cervimunida,johni
+Blue swimming crab,Flower crab,,2311100401,SCD,Brachyura,Portunidae,Portunus,pelagicus
+Blue tilapia,,,1705905103,OEA,Percoidei,Cichlidae,Oreochromis,aureus
+Blue whiting,Poutassou,,1480403301,WHB,Gadiformes,Gadidae,Micromesistius,poutassou
+"Blue-Nile tilapia, hybrid",,,17059051XX001,OXW,"","",Oreochromis,aureus x niloticus
+Bluefin gurnard,Red gurnard ,,1780200301,KUG,Scorpaeniformes,Triglidae,chelidonichthys,kumu
+Bluefish,,,1702021301,BLU,Percoidei,Pomatomidae,pomatomus,saltatrix
+Bluenose warehou,Blue eye trevalla,,1760801502,BWA,"Stromateoidei, Anabantoidei",Centrolophidae,hyperoglyphe,antarctica
+Bluespotted cornetfish,"Bluespotted cornetfish, Trompeta (Spanish), Corneta colorada (Spanish)",,1510200104,FIO,Syngnathiformes,Fistulariidae,Fistularia,commersonii
+Boarfish,,,1620300201,BOC,Zeiformes,Caproidae,capros,aper
+,Boco,,2310901011,QPR,Decapoda,Cancridae,Cancer,porteri
+Bonga shad,,,1210503002,BOA,Clupeiformes,Clupeidae,Ethmalosa,fimbriata
+Brazilian codling,,,1480400801,HKU,Gadiformes,Gadidae,Urophycis,brasiliensis
+Brazilian flounder,Linguado,,1830804602,YSL,Pleuronectiformes,Paralichthyidae,Paralichthys,brasiliensis
+Brazilian sardinella,,,1210501224,BSR,Clupeiformes,Clupeidae,sardinella,brasiliensis
+Brill,,,1830506401,BLL,Pleuronectiformes,Scophthalmidae,scophthalmus,rhombus
+Broad-barred king mackerel,Grey mackerel,,1750101513,BBM,Scombroidei,Scombridae,scomberomorus,semifasciatus
+Brown bullhead,,,1411000407,ITE,Siluriformes,Ictaluridae,ameiurus,nebulosus
+Brown tiger prawn,,,2280100121,PRB,Natantia,Penaeidae,penaeus,esculentus
+Brushtooth lizardfish,,,1311606804,LIB,Aulopiformes,Synodontidae,saurida,undosquamis
+Buccaneer anchovy,,,1210600703,STL,Clupeiformes,Engraulidae,encrasicholina,punctifer
+Bullet tuna,Bullet tuna,,1750102303,BLT,Perciformes,Scombridae,Auxis,rochei
+Butter clam,,,3161103702,BCL,Bivalvia,Veneridae,Saxidomus,gigantea
+Butter sole,,,1830206801,ISI,Pleuronectiformes,Pleuronectidae,Isopsetta,isolepis
+Calico scallop,,,3160803001,SCC,Bivalvia,Pectinidae,argopecten,gibbus
+California two-spot octopus,pulpo café,,0000000000,XXX,"","",Octopus,bimaculatus
+Californian anchovy,"Anchoveta norteña, Northern anchovy",,1210600207,NPA,Clupeiformes,Engraulidae,engraulis,mordax
+Canary rockfish,,,1780100115,SPG,Scorpaeniformes,Scorpaenidae,Sebastes,pinniger
+Cape Hope squid,Chokka,,3210400112,CHO,Cephalopoda,Loliginidae,Loligo,reynaudii
+Cape bonnetmouth,Redbait,,1703001001,EMM,Percoidei,Emmelichthyidae,emmelichthys,nitidus
+Cape hakes,,,14805004XX034,HKC,Gadiformes,Merlucciidae,Merluccius,"paradoxus, m. capensis"
+Cape rock lobster,West coast rock lobster,,2290100201,LBC,Reptantia,Palinuridae,jasus,lalandii
+Capelin,,,1230400201,CAP,Salmoniformes,Osmeridae,Mallotus,villosus
+Caramote prawn,,,2280100117,TGS,Natantia,Penaeidae,penaeus,kerathurus
+Carcharhinus sharks nei,"Blacktip shark, Carcharhinus nei",,10802010XX,CWZ,Carcharhiniformes,Carcharhinidae,carcharhinus,spp.
+Caribbean spiny lobster,,,2290100108,SLC,Reptantia,Palinuridae,panulirus,argus
+Carrot squat lobster,"Langostino colorado, Red squat lobster",,2301900102,PQG,Anomura,Galatheidae,pleuroncodes,monodon
+Catla,,,1400203001,CTT,Cypriniformes,Cyprinidae,Gibelion,catla
+,"Chain pickerel, pickerel,",,"",FS-252,Esociformes ,Esocidae ,Esox,niger
+Changos octopus,"Pulpo del norte, Pulpo burlón",,3210900528,QDM,"",Octopodidae,Octopus,mimus
+Channel catfish,,,1411000202,ITP,Siluriformes,Ictaluridae,Ictalurus,punctatus
+Chilean jack mackerel,,,1702300405,CJM,Percoidei,Carangidae,trachurus,murphyi
+Chilean mussel,Chorito,,3161000103,MYC,Bivalvia,Mytilidae,mytilus,chilensis
+Chilean nylon shrimp,,,2280400501,CHS,Natantia,Pandalidae,heterocarpus,reedi
+Chilean sea urchin,,,6930401701,UCH,Camarodonta,Parechinidae,Loxechinus,albus
+Chilean silverside,"Silverside, Sea silverside, Pejerrey ",,1630200201,ODR,Atheriniformes,Atherinidae,odontesthes,regia
+Chilipepper rockfish,,,1780100116,SGO,Scorpaeniformes,Scorpaenidae,sebastes,goodei
+Chinaman-leatherjacket,Ocean Jacket,,1900901401,NLY,Tetraodontiformes,Monacanthidae,Nelusetta,ayraudi
+Chinese icefish,"short-snout icefish, noodlefish",,1230900102,XHK,Salmoniformes,Salangidae,neosalanx,tangkahkeii
+Chinese mitten crab,,,2311302803,ERS,Brachyura,Grapsidae,Eriocheir,sinensis
+Chinese silver pomfret,,,1760300902,CPO,"Stromateoidei, Anabantoidei",Stromateidae,pampus,chinensis
+Chinook salmon,King Salmon,,1230100907,CHI,Salmoniformes,Salmonidae,Oncorhynchus,tshawytscha
+Chocolate hind,,,1700211519,CVK,Percoidei,Serranidae,Cephalopholis,boenak
+Cholga mussel,Cholga,,3161003801,MSC,Bivalvia,Mytilidae,Aulacomya,atra
+Chum salmon,,,1230100903,CHU,Salmoniformes,Salmonidae,oncorhynchus,keta
+Cinnabar goatfish,"Red Mullet, Goatfish",,1704120010,RQF,Percoidei,Mullidae,parupeneus,heptacanthus
+Clearhead icefish,,,1230900201,PRS,Salmoniformes,Salangidae,Protosalanx,hyalocranius
+Coastal mud shrimp,,,2282907204,SOJ,Decapoda,Solenoceridae,Solenocera,crassicornis
+Cobia,,,1702222101,CBA,Percoidei,Rachycentridae,rachycentron,canadum
+Coho salmon,,,1230100908,COH,Salmoniformes,Salmonidae,Oncorhynchus,kisutch
+Common European bittersweet,Dog cockle,,3161300102,GKL,Bivalvia,Glycymerididae,glycymeris,glycymeris
+Common carp,European carp,,1400200201,FCP,Cypriniformes,Cyprinidae,cyprinus,carpio
+Common cuttlefish,Cuttlefish ,,3210200202,CTC,Cephalopoda,Sepiidae,sepia,officinalis
+Common dab,,,1830202405,DAB,Pleuronectiformes,Pleuronectidae,limanda,limanda
+Common dolphinfish,Mahi-mahi,,1702807101,DOL,Percoidei,Coryphaenidae,coryphaena,hippurus
+Common edible cockle,,,3162300203,COC,Bivalvia,Cardiidae,cerastoderma,edule
+Common octopus,,,3210900507,OCC,Cephalopoda,Octopodidae,Octopus,vulgaris
+Common periwinkle,winkle,,3070100101,PEE,Gastropoda,Littorinidae,littorina,littorea
+Common shrimp,brown shrimp,,2282300303,CSH,Natantia,Crangonidae,Crangon,crangon
+Common sole,European Dover sole,,1830300701,SOL,Pleuronectiformes,Soleidae,solea,solea
+Common squids nei,(multispecies),,32104001XX,SQC,Cephalopoda,Loliginidae,loligo,spp.
+Constricted tagelus,Chinese razor clam,,3164000101,SVT,Bivalvia,Solecurtidae,Sinonovacula,constricta
+Cook's cardinalfish,,,1701200106,QCD,Percoidei,Apogonidae,Ostorhinchus,cookii
+Cortez oyster,,,3160700813,OYR,Bivalvia,Ostreidae,Crassostrea,corteziensis
+Corvina drum,,,1703756501,IAG,Percoidei,Sciaenidae,cilus,gilberti
+Cownose ray,,,1100702402,MRB,Rajiformes,Myliobatidae,rhinoptera,bonasus
+Crimson jobfish,"Crimson snapper, Pink snapper, Opakapaka, Rosy snapper",,1703221702,PFM,Percoidei,Lutjanidae,pristipomoides,filamentosus
+Crimson snapper,Red snapper,,1703202704,LJT,Percoidei,Lutjanidae,lutjanus,erythropterus
+,Croakers nei (multispecies),,17037561XX,NHX,Percoidei,Sciaenidae,Pennahia,spp.
+Crocodiles and alligators nei,(multispecies),,53601XXXXX,CRO,Crocodilia,Crocodylidae,"",""
+Crucian carp,,,1400201601,FCC,Cypriniformes,Cyprinidae,Carassius,carassius
+,Crystal crab,,"",FS-500,Decapoda,Geryonidae,Chaceon,albus
+Crystal shrimp,"camarón cristal, camarón pink",,2280100123,CSP,Natantia,Penaeidae,Penaeus,brevirostris
+Cuata swimcrab,Arched swimming crab ,,2311101212,KLU,Brachyura,Portunidae,callinectes,arcuatus
+Cuckoo ray,"Cuckoo Skate, Pudding, Stars, Crownback",,1100400110,RJN,Rajiformes,Rajidae,Leucoraja,naevus
+Cupped oysters nei,,,31607008XX,OYC,Bivalvia,Ostreidae,Crassostrea,spp.
+Curlfin sole,,,1830205902,NYD,Pleuronectiformes,Pleuronectidae,pleuronichthys,decurrens
+Cusk-eels nei,Cusk-eels nei,,15802001XX,CEX,Ophidiiformes,Ophidiidae,Genypterus,spp
+Cuttlefishes nei,,,32102002XX,IAX,Cephalopoda,Sepiidae,sepia,spp.
+Cyprinids nei,(multispecies),,14002XXXXX,FCY,Cypriniformes,Cyprinidae,"",""
+Danube sturgeon,Russian sturgeon,,1170100102,APG,Acipenseriformes,Acipenseridae,Aceipenser,gueldenstaedtii
+Deep-sea mud shrimp,,,2282907207,SXT,Natantia,Solenoceridae,solenocera,hextii
+Deep-water Cape hake,,,1480500410,HKO,Gadiformes,Merlucciidae,merluccius,paradoxus
+Deep-water flathead,Deepwater flathead,,1780901806,FTL,Scorpaeniformes,Platycephalidae,platycephalus,conatus
+Devil anglerfish,,,1950100106,MVO,Lophiiformes,Lophiidae,Lophius,vomerinus
+Devis' anchovy,,,1210600701,END,Clupeiformes,Engraulidae,encrasicholina,devisi
+Dog shrimp,dog prawn,,2280101908,NAH,Natantia,Penaeidae,parapenaeopsis,hungerfordi
+Dogtooth grouper,,,1700204232,EFJ,Perciformes,Serranidae,Epinephelus,caninus
+Dombey's tagelus,Hard razor clam,,3164000201,TGZ,Cardiida,Solecurtidae,Tagelus,dombeii
+Dot-dash grouper,Dot-dash rockcod,,1700204279,EWP,Percoidei,Serranidae,Epinephelus,poecilonotus
+Dover sole,,,1830204503,MIP,Pleuronectiformes,Pleuronectidae,microstomus,pacificus
+Dungeness crab,,,2310901004,DUN,Brachyura,Cancridae,cancer,magister
+Dusky Rockfish,Dusky Rockfish,,1780100137,RVC,Scorpaeniformes,Scorpaenidae,Sebastes,ciliatus
+Duskytail grouper,,,1700204253,EFK,Percoidei,Serranidae,Epinephelus,bleekeri
+Edible crab,Brown crab,,2310901006,CRE,Brachyura,Cancridae,cancer,pagurus
+,Emperor fishes nei (multispecies),,17038172XX,LZX,Percoidei,Lethrinidae,lethrinus,spp.
+Emperor red snapper,Red snapper,,1703202714,LUB,Percoidei,Lutjanidae,lutjanus,sebae
+Endeavour shrimp,"Endeavor shrimp, blue endeavor prawn",,2280101606,ENS,Natantia,Penaeidae,metapenaeus,endeavouri
+English sole,,,1830200415,RFE,Pleuronectiformes,Pleuronectidae,pleuronectes,vetulus
+Ensis razor clams nei,Razor clams,,31616005XX,EQX,Bivalvia,Solenidae,ensis,spp.
+Escolar,,,1750500501,LEC,Scombroidei,Gempylidae,lepidocybium,flavobrunneum
+European anchovy,,,1210600201,ANE,Clupeiformes,Engraulidae,Engraulis,encrasicolus
+European eel,,,1430200201,ELE,Anguilliformes,Anguillidae,Anguilla,anguilla
+European flat oyster,,,3160700205,OYF,Bivalvia,Ostreidae,ostrea,edulis
+European flounder,,,1830204802,FLE,Pleuronectiformes,Pleuronectidae,platichthys,flesus
+European flying squid,,,3210505801,SQE,Cephalopoda,Ommastrephidae,Todarodes,sagittatus
+European hake,,,1480500401,HKE,Gadiformes,Merlucciidae,Merluccius,merluccius
+European lobster,,,2294200718,LBE,Reptantia,Nephropidae,homarus,gammarus
+European perch,"Eurasian perch, perch",,1701400201,FPE,Percoidei,Percidae,Perca,fluviatilis
+European pilchard,"Sardine, European sardine",,1210506401,PIL,Clupeiformes,Clupeidae,Sardina,pilchardus
+European plaice,,,1830200405,PLE,Pleuronectiformes,Pleuronectidae,pleuronectes,platessa
+European seabass,,,1700634503,BSS,Percoidei,Moronidae,dicentrarchus,labrax
+European sprat,,,1210506601,SPR,Clupeiformes,Clupeidae,Sprattus,sprattus
+European squid,,,3210400109,SQR,Cephalopoda,Loliginidae,loligo,vulgaris
+European whitefish,,,1231200102,PLN,Salmoniformes,Coregonidae,coregonus,lavaretus
+False abalone,Chilean abalone,,3070202301,SNE,Neogastropoda,Muricidae,Concholepas,concholepas
+Fine flounder,,,1830804610,RIE,"",Paralichthyidae,Paralichthys,adspersus
+Finescale triggerfish,,,1901000204,BIY,Tetraodontiformes,Balistidae,Balistes,polylepis
+,"Flat periwinkle, Yellow periwinkle",,"",FS-251,Littorinimorpha,Littorinidae,Littorina,obtusata
+Flathead flounder,,,1830201403,HGD,Pleuronectiformes,Pleuronectidae,hippoglossoides,dubius
+Flathead grey mullet,Mullet,,1650100102,MUF,Mugiliformes,Mugilidae,mugil,cephalus
+Flathead sole,,,1830201404,FTS,Pleuronectiformes,Pleuronectidae,hippoglossoides,elassodon
+Flinders' sillago,Eastern School Whiting,,1701523306,ILQ,Percoidei,Sillaginidae,sillago,flindersi
+Florida pompano,Pompano,,1702304703,POM,Percoidei,Carangidae,trachinotus,carolinus
+Flyingfishes nei,(multispecies),,14704XXXXX,FLY,Beloniformes,Exocoetidae,"",""
+,"Fork-tailed threadfin bream, Rosy threadﬁn bream",,"",FS-425,Perciformes,Nemipteridae,Nemipterus,furcosus
+Forkbeard,,,1480400602,FOR,"",Phycidae,Phycis,phycis
+Four-spot megrim,,,1830500302,LDB,Pleuronectiformes,Scophthalmidae,lepidorhombus,boscii
+Frigate and bullet tunas,"(multispecies), botellas",,17501023XX018,FRZ,Scombroidei,Scombridae,Auxis,spp.
+Frigate tuna,,,1750102301,FRI,Scombroidei,Scombridae,Auxis,thazard
+Frogs,,,51201001XX,FRG,Anura,Ranidae,Rana,spp.
+Gafftopsail sea catfish,,,1410203702,BEM,"","",Bagre,marinus
+Gag, grouper,,1700204004,MKM,Percoidei,Serranidae,mycteroperca,microlepis
+Gazami crab,Horse crab,,2311100404,GAZ,Brachyura,Portunidae,portunus,trituberculatus
+Giant jackknife,Razor clam,,3161600504,EQH,Bivalvia,Solenidae,Ensis,macha
+Giant red shrimp,Red prawn ,,2280203001,ARS,Natantia,Aristaeidae,aristaeomorpha,foliacea
+Giant river prawn,,,2281202307,PRF,Natantia,Palaemonidae,Macrobrachium,rosenbergii
+Giant stargazer,,,1721348401,STZ,Trachinoidei,Uranoscopidae,kathetostoma,giganteum
+Giant swimcrab,,,2311101206,CRC,Brachyura,Portunidae,callinectes,toxotes
+Giant tiger prawn,,,2280100112,GIT,Natantia,Penaeidae,Penaeus,monodon
+Gilthead seabream,,,1703923508,SBG,Percoidei,Sparidae,Sparus,aurata
+Gloomy octopus,common Sydney octopus,,3210900502,OKE,Octopoda,Octopodidae,Octopus,tetricus
+Goatfishes,,,17041251XX,GOX,Percoidei,Mullidae,upeneus,spp.
+"Goatfishes, red mullets nei",(multispecies),,17041XXXXX,MUM,Percoidei,Mullidae,"",""
+Gold-spot octopus,,,3210900527,OFY,Cephalopoda,Octopodidae,Amphioctopus,fangsiao
+Golden callista,Megapitaria aurantiaca,,3161101801,EGA,Bivalvia,Veneridae,Megapitaria,aurantiaca
+Golden king crab,,,2302007005,KAQ,Anomura,Lithodidae,Lithodes,aequispinus
+Golden perch,,,1700830102,MCA,Percoidei,Percichthyidae,macquaria,ambigua
+Golden redfish,,,1780100101,REG,Scorpaeniformes,Scorpaenidae,Sebastes,norvegicus
+,Goldeye,,0000000000,NAA,Osteoglossiformes,Hiodontidae,Hiodon,alosoides
+Goldstripe sardinella,,,1210501203,SAG,Clupeiformes,Clupeidae,sardinella,gibbosa
+Goolwa donax,,,3161500219,DNE,Bivalvia,Donacidae,donax,deltoides
+Gouramis nei,Grouramis nei,,17610013XX,GOM,"Stromateoidei, Anabantoidei",Belontiidae,Trichogaster,spp.
+Graceful shark,Queensland shark,,1080201002,CCY,Carcharhiniformes,Carcharhinidae,carcharhinus,amblyrhynchoides
+Grass carp,,,1400203501,FCG,Cypriniformes,Cyprinidae,Ctenopharyngodon,idellus
+Greasy grouper,,,1700204219,EPT,Percoidei,Serranidae,Epinephelus,tauvina
+Greasyback shrimp,red endeavor prawn ,,2280101609,MPE,Natantia,Penaeidae,metapenaeus,ensis
+Great Atlantic scallop,King scallop,,3160800309,SCE,Bivalvia,Pectinidae,Pecten,maximus
+Great Northern tilefish,Golden tilefish,,1701640002,TIL,Percoidei,Branchiostegidae,lopholatilus,chamaeleonticeps
+Greater amberjack,,,1702304801,AMB,Percoidei,Carangidae,seriola,dumerili
+Greater argentine,Greater silver smelt,,1230501503,ARU,Salmoniformes,Argentinidae,argentina,silus
+Greater forkbeard,,,1480400601,GFB,Gadiformes,Gadidae,phycis,blennoides
+Green jobfish,"Gray snapper, uku, jobfish",,1703210001,AVR,Percoidei,Lutjanidae,aprion,virescens
+Green mussel,"Jadeite mussel, Asian ",,3161003202,MSV,Bivalvia,Mytilidae,perna,viridis
+,"Green sea urchin, Northern sea urchin",,6930200404,UYD,Echinoidea,Strongylocentrotidae,strongylocentrotus,droebachiensis
+Green tiger prawn,grooved tiger prawn    ,,2280100120,TIP,Natantia,Penaeidae,penaeus,semisulcatus
+Green weakfish,"Seatrout, Corvina",,1703701618,YNV,Percoidei,Sciaenidae,Cynoscion,virescens
+Greenback horse mackerel,Jack mackerel ,,1702300415,HMG,Percoidei,Carangidae,trachurus,declivis
+Greenland halibut,Greenland turbot (US-Canada),,1830200501,GHL,Pleuronectiformes,Pleuronectidae,reinhardtius,hippoglossoides
+Grey snapper,"Gray snapper, Mangrove snapper",,1703202728,LJI,Percoidei,Lutjanidae,lutjanus,griseus
+Grey tilefish,Grey Tilefish,,1701600102,ULM,"","",Caulolatilus,microps
+Grey triggerfish,"Triggerfish, Baliste, Cangulo",,1901000201,TRG,Tetraodontiformes,Balistidae,Balistes,capriscus
+Grooved carpet shell,Clam,,3161102001,CTG,Bivalvia,Veneridae,ruditapes,decussatus
+Groupers nei,(multispecies),,17002042XX,GPX,Percoidei,Serranidae,epinephelus,spp.
+"Groupers, seabasses nei",(multispecies),,17002XXXXX,BSX,Percoidei,Serranidae,"",""
+Guinean sole,Guinean sole,,1830303606,YNY,Pleuronectiformes,Soleidae,Synaptura,cadenati
+Gulf menhaden,,,1210502404,MHG,Clupeiformes,Clupeidae,Brevoortia,patronus
+Gulf weakfish,Gulf corvina,,1703701611,YNO,Percoidei,Sciaenidae,Cynoscion,othonopterus
+Gummy shark,,,1080400701,CTU,Carcharhiniformes,Triakidae,mustelus,antarcticus
+"Gurnards, searobins nei","Gurnards (multispecies), searobins nei",,17802XXXXX,GUX,Scorpaeniformes,Triglidae,"",""
+Haddock,,,1480401001,HAD,Gadiformes,Gadidae,melanogrammus,aeglefinus
+Hammerhead sharks nei,(multispecies),,10803005XX,SPN,Carcharhiniformes,Sphyrnidae,Sphyrna,spp.
+Hapuka,(multispecies),,17005058XX,HAU,Percoidei,Polyprionidae,Polyprion,spp.
+Hard clams nei,,,31611017XX,HCX,Bivalvia,Veneridae,Meretrix,spp.
+Hardenberg's anchovy,Golden anchovy,,1210605005,ESN,Clupeiformes,Engraulidae,stolephorus,insularis
+Hogfish,Boquinete,,1706316401,LCX,Percoidei,Labridae,lachnolaimus,maximus
+Horned octopus,Lesser octopus,,3210902401,EOI,Cephalopoda,Octopodidae,Eledone,cirrhosa
+Hubb's octopus,pulpo verde,,0000000000,XXX,"","",Octopus,hubbsorum
+Iceland scallop,,,3160803603,ISC,Bivalvia,Pectinidae,chlamys,islandica
+Indian goatfish,,,1704120008,RFQ,Percoidei,Mullidae,parupeneus,indicus
+Indian mackerel,,,1750101403,RAG,Scombroidei,Scombridae,Rastrelliger,kanagurta
+Indian oil sardine,,,1210501204,IOS,Clupeiformes,Clupeidae,sardinella,longiceps
+Indian squid,,,3210400111,OJD,Cephalopoda,Loliginidae,Uroteuthis (Photololigo),duvauceli
+Indian white prawn,red legged banana prawn,,2280100125,PNI,Natantia,Penaeidae,Penaeus,indicus
+Indo-Pacific king mackerel,,,1750101504,GUT,Perciformes,Scombridae,Scomberomorus,guttatus
+Indo-Pacific swamp crab,,,2311114001,MUD,Brachyura,Portunidae,Scylla,serrata
+,Indonesian snapper,,"",FS-98,Perciformes,Lutjanidae,Lutjanus,bitaeniatus
+Inshore squids nei,(multispecies),,32104XXXXX,SQZ,Cephalopoda,Loliginidae,"",""
+"Jacks, crevalles nei",,,17023044XX,TRE,Perciformes,Carangidae,Caranx,spp
+Japanese amberjack,,,1702304802,AMJ,Percoidei,Carangidae,Seriola,quinqueradiata
+Japanese anchovy,,,1210600202,JAN,Clupeiformes,Engraulidae,engraulis,japonicus
+Japanese carpet shell,"Japanese littleneck clam, Manila clam",,3161102002,CLJ,Bivalvia,Veneridae,Ruditapes,philippinarum
+Japanese eel,,,1430200204,ELJ,Anguilliformes,Anguillidae,Anguilla,japonica
+Japanese flying squid,Japanese Common Squid,,3210505803,SQJ,Cephalopoda,Ommastrephidae,todarodes,pacificus
+Japanese flyingfish,,,1470401002,JFL,Beloniformes,Exocoetidae,cypselurus,agoo
+Japanese hard clam,,,3161101701,HCJ,Bivalvia,Veneridae,Meretrix,lusoria
+Japanese jack mackerel,,,1702300403,JJM,Perciformes,Carangidae,Trachurus,japonicus
+Japanese scad,"Galunggong, Blue mackerel scad, Round scad",,1702304307,RSA,Percoidei,Carangidae,decapterus,maruadsi
+Japanese seabass,,,1700829701,BAJ,Percoidei,Percichthyidae,Lateolabrax,japonicus
+Japanese threadfin bream,,,1703318404,NNJ,Percoidei,Nemipteridae,nemipterus,japonicus
+Jobfishes nei,Jobfishes nei,,17032217XX,LWX,Percoidei,Lutjanidae,Pristipomoides,spp.
+John dory,,,1620100101,JOD,Zeiformes,Zeidae,zeus,faber
+Jonah crab,,,2310901007,CRJ,Brachyura,Cancridae,cancer,borealis
+Juan Fernandez rock lobster,,,2290100202,LOF,Reptantia,Palinuridae,jasus,frontalis
+Jumbo flying squid,,,3210502301,GIS,Cephalopoda,Ommastrephidae,dosidicus,gigas
+Kadal shrimp,,,2280101608,MPD,Decapoda,Penaeidae,Metapenaeus,dobsoni
+Kamchatka flounder,,,1830200802,KAF,Pleuronectiformes,Pleuronectidae,atheresthes,evermanni
+Kawakawa,"Little tuna, Mackerel Tuna",,1750102406,KAW,Scombroidei,Scombridae,euthynnus,affinis
+Kiddi shrimp,"Sungta, karikkadi shrimp",,2280101901,NAY,Decapoda,Penaeidae,Parapenaeopsis,stylifera
+King mackerel,"Kingfish, Kings",,1750101506,KGM,Scombroidei,Scombridae,scomberomorus,cavalla
+King weakfish,,,1703709601,WKK,Percoidei,Sciaenidae,macrodon,ancylodon
+King's littleneck,,,3161100201,AYQ,Venerida,Veneridae,Ameghinomya,antiqua
+Kingklip,,,1580200105,KCP,Ophidiiformes,Ophidiidae,Genypterus,capensis
+Knife shrimp,Pink prawn ,,2282907301,KNS,Natantia,Solenoceridae,haliporoides,triarthrus
+Kolibri shrimp,camarón fidel,,2282907201,SOK,Natantia,Solenoceridae,Solenocera,agassizii
+Korean rockfish,,,1780100128,SFL,Scorpaeniformes,Scorpaenidae,Sebastes,schlegeli
+Kuruma prawn,,,2280100109,KUP,Natantia,Penaeidae,Penaeus,japonicus
+Lake chub,,,1400209801,UEP,Cypriniformes,Cyprinidae,couesius,plumbeus
+Lake sturgeon,,,1170100107,AAF,Acipenseriformes,Acipenseridae,acipenser,fulvescens
+Lake trout,Char,,1230101007,LAT,Salmoniformes,Salmonidae,salvelinus,namaycush
+Lake whitefish,Common whitefish,,1231200112,WHL,Salmoniformes,Coregonidae,Coregonus,clupeaformis
+Lane snapper,,,1703202733,SNL,Percoidei,Lutjanidae,lutjanus,synagris
+Large yellow croaker,,,1703730304,LYC,Percoidei,Sciaenidae,Larimichthys,croceus
+Largehead hairtail,"Cutlassfish, Corbata (Spanish)",,1750600302,LHT,Perciformes,Trichiuridae,Trichiurus,lepturus
+Lebranche mullet,"Lebranche mullet, Lisa (Spanish), Tainha (Portuguese)",,1650100112,MUB,Mugiliformes,Mugilidae,Mugil,liza
+Lefteye flounders nei,(multispecies),,18301XXXXX,LEF,Pleuronectiformes,Bothidae,"",""
+Lemon sole,,,1830204504,LEM,Pleuronectiformes,Pleuronectidae,microstomus,kitt
+Leopard coralgrouper,Leopard coralgrouper,,1700220804,EMO,Percoidei,Serranidae,Plectropomus,leopardus
+Leopard grouper,,,1700204013,MKR,Perciformes,Serranidae,Mycteroperca,rosacea
+Lesser sand-eel,,,1720400208,QLH,Trachinoidei,Ammodytidae,ammodytes,marinus
+Ling,,,1480400501,LIN,Gadiformes,Gadidae,molva,molva
+Lingcod,,,1780700501,CLI,Scorpaeniformes,Hexagrammidae,ophiodon,elongatus
+Little skate,,,1100400160,RJD,Rajiformes,Rajidae,Leucoraja,erinacea
+,Lizardfishes nei (multispecies),,13116068XX,SZX,Aulopiformes,Synodontidae,Saurida,spp.
+Longfin squid,Longfin Inshore Squid ,,3210400105,SQL,Cephalopoda,Loliginidae,loligo,pealeii
+Longfin squid,Longfin inshore squid,,3210400105,SQL,Cephalopoda,Loliginidae,Doryteuthis (Amerigo),pealeii
+Longfin yellowtail,Almaco jack,,1702304814,YTL,Perciformes,Carangidae,Seriola,rivoliana
+Longnose anchovy,Anchoa trompuda,,1210602005,EAN,Clupeiformes,Engraulidae,anchoa,nasus
+Longnose skate,Big skate,,1100400126,JAH,Rajiformes,Rajidae,Raja,rhina
+Longspine thornyhead,,,1780107902,SJZ,Scorpaeniformes,Scorpaenidae,sebastolobus,altivelis
+Longtail tuna,tonggol tuna,,1750102603,LOT,Scombroidei,Scombridae,thunnus,tonggol
+Lumpfish,lumpsucker,,1782000301,LUM,Scorpaeniformes,Cyclopteridae,cyclopterus,lumpus
+Lyrate hard clam,,,3161101704,MXL,Bivalvia,Veneridae,meretrix,lyrata
+Macha clam,,,3162403901,CLM,Bivalvia,Mesodesmatidae,mesodesma,donacium
+Mackerel icefish,,,1709441701,ANI,Percoidei,Channichthyidae,champsocephalus,gunnari
+Madeiran Sardinella,,,1210501217,SAE,Clupeiformes,Clupeidae,Sardinella,maderensis
+Malabar blood snapper,"Saddletail snapper, red snapper",,1703202713,MAL,Percoidei,Lutjanidae,lutjanus,malabaricus
+Malabar grouper,Malabar grouper,,1700204244,MAR,Percoidei,Serranidae,Epinephelus,malabaricus
+Mandarin fish,,,1700829902,SIN,Percoidei,Percichthyidae,Siniperca,chuatsi
+Masu salmon,,,1230100905,CHE,Salmoniformes,Salmonidae,oncorhynchus,masou
+Meagre,,,1703710601,MGR,Perciformes,Sciaenidae,Argyrosomus,regius
+Meagres nei,(multispecies),,17037106XX,RXY,Percoidei,Sciaenidae,Argyrosomus,spp.
+Mediterranean mussel,,,3161000112,MSM,Bivalvia,Mytilidae,Mytilus,galloprovincialis
+Megrim,,,1830500301,MEG,Pleuronectiformes,Scophthalmidae,lepidorhombus,whiffiagonis
+Megrims nei,Megrims nei,,18305003XX,LEZ,Pleuronectiformes,Scophthalmidae,Lepidorhombus,ssp.
+Mexican four-eyed octopus,"Octopus maya, Pulpo Rojo",,3210900519,OQY,Cephalopoda,Octopodidae,Octopus,maya
+Mexican moonfish,,,1702304608,LNO,Percoidei,Carangidae,selene,orstedii
+Mexican spiny loster,California spiny lobster   ,,2290100103,NUT,Reptantia,Palinuridae,panulirus,interruptus
+Middling thread herring,,,1210504204,OPM,Clupeiformes,Clupeidae,opisthonema,medirastre
+Milkfish,,,1220200101,MIL,Gonorynchiformes,Chanidae,chanos,chanos
+Mirror dory,"Deepsea Dory, Deepwater Dory",,1620100402,ZNE,Zeiformes,Zeidae,zenopsis,nebulosus
+Mitre squid,,,3210400104,OJH,Cephalopoda,Loliginidae,Uroteuthis (Photololigo),chinensis
+Mola rock crab,Jaiba marmola,,2310901010,CWE,Decapoda,Cancridae,Metacarcinus,edwardsii
+Monkfishes nei,"Anglerfish nei (multispecies), angler, monkfish, monk",,19501001XX,MNZ,Lophiiformes,Lophiidae,lophius,spp.
+Mozambique tilapia,,,1705905101,TLM,"","",Oreochromis,mossambicus
+Mrigal carp,,,1400202503,CMG,Cypriniformes,Cyprinidae,Cirrhinus,mrigala
+Mullets nei,(multispecies),,16501XXXXX,MUL,Mugiliformes,Mugilidae,"",""
+Mutton snapper,,,1703202717,LJN,Percoidei,Lutjanidae,lutjanus,analis
+Mytilus mussels nei,,,31610001XX,MYV,Bivalvia,Mytilidae,mytilus,spp.
+Narrow-barred Spanish mackerel,,,1750101503,COM,Scombroidei,Scombridae,scomberomorus,commerson
+Needle cuttlefish,,,3210200201,EJA,Cephalopoda,Sepiidae,sepia,aculeata
+Neglected ocellate octopus,,,3210900526,OCW,Octopoda,Octopodidae,Octopus,neglectus
+Neon flying squid,Red flying squid,,3210500301,OFJ,Cephalopoda,Ommastrephidae,Ommastrephes,bartramii
+New Zealand blue cod,,,1720919602,NEB,Trachinoidei,Pinguipedidae,parapercis,colias
+New Zealand lobster,Scampi,,2294200504,MEC,"","",Metanephrops,challengeri
+New Zealand mussel,,,3161003203,MUZ,Bivalvia,Mytilidae,Perna,canaliculus
+New Zealand rough skate,rough skate,,1100403001,ZRN,Rajiformes,Rajidae,zearaja,nasuta
+New Zealand scallop,Southern scallop,,3160800313,SCZ,Bivalvia,Pectinidae,Pecten,novaezelandiae
+New Zealand smooth skate,smooth skate,,1100402001,DPQ,Rajiformes,Rajidae,dipturus,innominatus
+Nigerian tonguesole,,,1830403120,YOW,Pleuronectiformes,Cynoglossidae,cynoglossus,browni
+Nile perch,Lake Victoria perch,,1700116707,NIP,Percoidei,Centropomidae,Lates,niloticus
+Nile tilapia,,,1705905102,TLN,Percoidei,Cichlidae,Oreochromis,niloticus
+Noble scallop,scallop,,3160803607,CMN,Bivalvia,Pectinidae,chlamys,nobilis
+North Pacific giant octopus,,,3210900513,OQF,Octopoda,Enteroctopodidae,Enteroctopus,dofleini
+North Pacific hake,,,1480500407,NHA,Gadiformes,Merlucciidae,merluccius,productus
+Northern brown shrimp,Camarón café norteño,,2280100101,ABS,Natantia,Penaeidae,Penaeus,aztecus
+Northern nylon shrimp,"torobado, camello, Camarón nailón norteño, Small red shrimp",,2280400508,HUV,Natantia,Penaeidae,Heterocarpus,vicarius
+Northern pike,,,1240300101,FPI,Esociformes,Esocidae,esox,lucius
+Northern pink shrimp,"Pink shrimp, Grooved shrimp",,2280100105,APS,Natantia,Penaeidae,Penaeus,duorarum
+Northern prawn,northern shrimp,,2280400203,PRA,Natantia,Pandalidae,pandalus,borealis
+Northern quahog,Hard clam,,3161107501,CLH,Bivalvia,Veneridae,mercenaria,mercenaria
+Northern red snapper,,,1703202725,SNR,Percoidei,Lutjanidae,lutjanus,campechanus
+Northern rock sole,,,1830204303,KZC,Pleuronectiformes,Pleuronectidae,lepidopsetta,polyxystra
+Northern rockfish,Northern Rockfish,,1780100140,RVP,Scorpaeniformes,Scorpaenidae,Sebastes,polyspinis
+Northern shortfin squid,short-finned squid ,,3210501001,SQI,Cephalopoda,Ommastrephidae,illex,illecebrosus
+Northern white shrimp,,,2280100122,PST,Natantia,Penaeidae,penaeus,setiferus
+Norway lobster,nephrops,,2294200602,NEP,Reptantia,Nephropidae,nephrops,norvegicus
+Norway pout,,,1480403201,NOP,Gadiformes,Gadidae,trisopterus,esmarkii
+Norway redfish,,,1780100102,SFV,Scorpaeniformes,Scorpaenidae,sebastes,viviparus
+Obtuse barracuda,,,1771000104,YRB,Other Perciformes,Sphyraenidae,sphyraena,obtusata
+Ocean quahog,,,3160904501,CLQ,Bivalvia,Arcticidae,Arctica,islandica
+Ocean shrimp,,,2280400204,PJK,Natantia,Pandalidae,pandalus,jordani
+Ocean whitefish,,,1701600103,ULP,Percoidei,Branchiostegidae,Caulolatilus,princeps
+Octopuses nei,(multispecies),,32109005XX,OCZ,Cephalopoda,Octopodidae,Octopus,spp.
+"Octopuses, etc. nei",,,32109XXXXX,OCT,Cephalopoda,Octopodidae,"",""
+Oilfish,escolar,,1750500701,OIL,Scombroidei,Gempylidae,ruvettus,pretiosus
+Opah,moonfish,,1520100102,LAG,Lampriformes,Lampridae,lampris,guttatus
+Opalescent inshore squid,California market squid,,3210400103,SQO,Cephalopoda,Loliginidae,Doryteuthis (Amerigo),opalescens
+Orange roughy,,,1610500202,ORY,Beryciformes,Trachichthyidae,Hoplostethus,atlanticus
+Orange-spotted grouper,,,1700204257,ENI,Percoidei,Serranidae,Epinephelus,coioides
+Oriental river prawn,,,2281202304,MNX,Natantia,Palaemonidae,Macrobrachium,nipponense
+Ornate threadfin bream,,,1703318403,NNH,Percoidei,Nemipteridae,nemipterus,hexodon
+Pacific anchoveta,Sardina bocona,,1210601503,VEP,Clupeiformes,Engraulidae,Cetengraulis,mysticetus
+Pacific bluefin tuna,Atún aleta azul ,,1750102602,PBF,Scombroidei,Scombridae,thunnus,orientalis
+Pacific bumper,,,1702326802,HSO,Percoidei,Carangidae,chloroscombrus,orqueta
+Pacific calico scallop,,,3160803004,SCH,Bivalvia,Pectinidae,argopecten,ventricosus
+Pacific chub mackerel,"chub mackerel, macarela",,1750100201,MAS,Scombroidei,Scombridae,Scomber,japonicus
+,Pacific clam,,"",FS-2125,Cardiida,Psammobiidae,Gari,solida
+Pacific cod,,,1480400211,PCO,Gadiformes,Gadidae,gadus,macrocephalus
+Pacific cornetfish,Pacific cornetfish,,1510200101,FUC,Syngnathiformes,Fistulariidae,Fistularia,corneta
+Pacific cupped oyster,"giant cupped oyster, Japanese oyster",,3160700801,OYG,Bivalvia,Ostreidae,Magallana,gigas
+Pacific dog snapper,"Dog snapper, Pacific cubera snapper  ",,1703202732,LJW,Percoidei,Lutjanidae,lutjanus,novemfasciatus
+Pacific geoduck,"Mexican geoduck, almeja de sifón",,3161808901,GEC,Adapedonta,Hiatellidae,Panopea,globosa
+Pacific grenadier,,,1480600408,CKE,Gadiformes,Macrouridae,coryphaenoides,acrolepis
+Pacific halibut,,,1830200202,HAP,Pleuronectiformes,Pleuronectidae,hippoglossus,stenolepis
+Pacific harvestfish,,,1760301106,WPM,"Stromateoidei, Anabantoidei",Stromateidae,peprilus,medius
+Pacific herring,,,1210500107,HEP,Clupeiformes,Clupeidae,clupea,pallasii
+Pacific jack mackerel,,,1702300406,PJM,Percoidei,Carangidae,trachurus,symmetricus
+Pacific ocean perch,,,1780100109,OPP,Scorpaeniformes,Scorpaenidae,sebastes,alutus
+Pacific red snapper,Pargo rojo,,1703202757,LWP,Percoidei,Lutjanidae,Lutjanus,peru
+Pacific sand sole,,,1830204901,YSE,Pleuronectiformes,Pleuronectidae,psettichthys,melanostictus
+Pacific sanddab,,,1830800902,IYO,Pleuronectiformes,Paralichthyidae,citharichthys,sordidus
+Pacific seabob,"Tití, Camarón botalón",,2280102202,TIT,Natantia,Penaeidae,xiphopenaeus,riveti
+Pacific sierra,Pacific sierra,,1750101509,SIE,Scombroidei,Scombridae,Scomberomorus,sierra
+Pacific thread herring,arenque,,1210504201,THP,Clupeiformes,Clupeidae,opisthonema,libertate
+,"Painted sweetlips, slatey bream",,"",FS-289,Percoidei,Haemulidae,Diagramma,labiosum
+Pangas catfish,,,1413000202,PGP,Siluriformes,Pangasiidae,Pangasius,pangasius
+Pangas catfishes nei,,,14130002XX,PGZ,Siluriformes,Pangasiidae,Pangasius,spp.
+Patagonian blennie,,,1709200702,BLP,Percoidei,Nototheniidae,eleginops,maclovinus
+Patagonian giant octopus,"pulpo del sur, pulpo rojo",,3210906502,EZM,"","",Enteroctopus,megalocyathus
+Patagonian grenadier,Hoki,,1480501701,GRM,Gadiformes,Merlucciidae,macruronus,magellanicus
+Patagonian scallop,,,3160806702,ZYP,Bivalvia,Pectinidae,zygochlamys,patagonica
+Patagonian squid,,,3210400102,SQP,Cephalopoda,Loliginidae,Doryteuthis (Amerigo),gahi
+Patagonian toothfish,,,1709201502,TOP,Percoidei,Nototheniidae,dissostichus,eleginoides
+Pelagic thresher,Pelagic thresher shark,,1060600602,PTH,"","",Alopias,pelagicus
+Penaeid shrimps nei,(multispecies),,22801XXXXX,PEZ,Natantia,Penaeidae,"",""
+Penaeus shrimps nei,,,22801001XX,PEN,Natantia,Penaeidae,penaeus,spp.
+Peruvian calico scallop,"Chilean-Peruvian Scallop, Concha de abanico, Ostión",,3160803003,SCQ,Bivalvia,Pectinidae,argopecten,purpuratus
+Peruvian grunt,,,1703602005,HNS,"",Haemulidae,Anisotremus,scapularis
+Peruvian moonfish,"Peruvian moonfish, Pacific Moonfish",,1702304609,LNP,Perciformes,Carangidae,Selene,peruviana
+Peruvian weakfish,,,1703701604,WEP,Percoidei,Sciaenidae,cynoscion,analis
+Petrale sole,,,1830201001,EOJ,Pleuronectiformes,Pleuronectidae,eopsetta,jordani
+Pharaoh cuttlefish,,,3210200229,IAH,Cephalopoda,Sepiidae,sepia,pharaonis
+Picked dogfish,piked dogfish,,1090100704,DGS,Squaliformes,Squalidae,squalus,acanthias
+Pike-perch,,,1701436103,FPP,Percoidei,Percidae,sander,lucioperca
+Pink cusk-eel,pink ling ,,1580200101,CUS,Ophidiiformes,Ophidiidae,genypterus,blacodes
+Pink salmon,,,1230100902,PIN,Salmoniformes,Salmonidae,oncorhynchus,gorbuscha
+Pollack,"green , lythe",,1480401502,POL,Gadiformes,Gadidae,pollachius,pollachius
+Pompano,,,1702304706,POP,Percoidei,Carangidae,Trachinotus,ovatus
+Pond loach,,,1400504701,KUR,Cypriniformes,Cobitidae,Misgurnus,anguillicaudatus
+Pond smelt,,,1230400801,PSM,Salmoniformes,Osmeridae,Hypomesus,olidus
+Ponderous dosinia,,,3161109604,DSO,Bivalvia,Veneridae,Dosinia,ponderosa
+Pouting,Bib,,1480403203,BIB,Gadiformes,Gadidae,trisopterus,luscus
+,Prespa bleak,,"",FS-532,,,alburnus,belvica
+Purple-spotted bigeye,,,1701102601,PQY,Percoidei,Priacanthidae,priacanthus,tayenus
+Queen conch,pink conch,,3070600201,COO,Gastropoda,Strombidae,strombus,gigas
+Queen crab,snow crab,,2312114501,CRQ,Brachyura,Majidae,Chionoecetes,opilio
+Queen scallop,,,3160800105,QSC,Bivalvia,Pectinidae,aequipecten,opercularis
+Rainbow sardine,Hasselt's sprat ,,1210502901,RAS,Clupeiformes,Clupeidae,dussumieria,acuta
+Rainbow smelt,"American smelt, Smelt",,1230400303,SMR,Salmoniformes,Osmeridae,osmerus,mordax
+Rainbow trout,Steelhead trout,,1230100909,TRR,Salmoniformes,Salmonidae,Oncorhynchus,mykiss
+Raja rays nei,(multispecies),,11004001XX,SKA,Rajiformes,Rajidae,raja,spp.
+Razor mud shrimp,,,2282907212,SQH,"",Soleniceridae,Solenocera,melantho
+Red abalone,,,3070300104,ABF,Gastropoda,Haliotidae,Haliotis,rufescens
+Red codling,red cod,,1480201401,NEC,Gadiformes,Moridae,pseudophycis,bachus
+Red crab,Atlantic deep-sea red crab,,2314300112,CRR,Brachyura,Geryonidae,Chaceon,quinquedens
+Red cusk-eel,"Congrio colorado, Congrio rosado",,1580200102,CUC,Ophidiiformes,Ophidiidae,genypterus,chilensis
+Red drum,,,1703741101,RDM,Percoidei,Sciaenidae,Sciaenops,ocellatus
+Red grouper,,,1700204228,GPR,Percoidei,Serranidae,epinephelus,morio
+Red gurnard,,,1780200403,GUR,Scorpaeniformes,Triglidae,Chelidonichthys,cuculus
+Red hake,Squirrel hake,,1480400802,HKR,Gadiformes,Gadidae,urophycis,chuss
+Red king crab,Краб камчатский,,2302001801,KCD,Anomura,Lithodidae,Paralithodes,camtschaticus
+Red lionfish,"Red lionfish, Scorpion-cod",,1780103602,PZO,Scorpaeniformes,Scorpaenidae,Pterois,volitans
+Red porgy,,,1703919103,RPG,Percoidei,Sparidae,pagrus,pagrus
+Red sea squirt,,,6960900502,SSE,Ascidiacea,Pyuridae,pyura,chilensis
+Red sea urchin,Red sea urchin,,6930200403,UYF,"","",Strongylocentrotus,franciscanus
+Red snow crab,,,2312114503,CWJ,Brachyura,Majidae,Chionoecetes,japonicus
+Red swamp crawfish,"Crawfish, crayfish, Cangrejo americano, Cangrejo de las marismas",,2290400101,RCW,Reptantia,Cambaridae,procambarus,clarkii
+Red-eye round herring,Sardina redonda,,1210503101,RRH,Cupleiformes,Dussumieriidae,Etrumeus,acuminatus
+Red-eye round herring,Sardina japonesa ,,1210503101,RRH,Clupeiformes,Clupeidae,etrumeus,teres
+Redbanded rockfish,"Flag rockfish, Barber pole",,1780100143,RVB,"","",Sebastes,babcocki
+Redfish,"Nannygai, Golden snapper",,1610201201,CXF,Beryciformes,Berycidae,centroberyx,affinis
+Requiem sharks nei,(multispecies),,10802XXXXX,RSK,Carcharhiniformes,Carcharhinidae,"",""
+Rex sole,,,1830201103,GLZ,Pleuronectiformes,Pleuronectidae,glyptocephalus,zachirus
+River eels nei,River eel nei,,14302002XX,ELX,Anguilliformes,Anguillidae,Anguilla,spp.
+Rock shrimp,brown,,2282802801,RSH,Natantia,Sicyoniidae,Sicyonia,brevirostris
+Rock sole,,,1830204301,ROS,Pleuronectiformes,Pleuronectidae,Lepidopsetta,bilineata
+Roho labeo,,,1400202415,LRH,Cypriniformes,Cyprinidae,Labeo,rohita
+Rooster venus,,,3161104103,FAG,Bivalvia,Veneridae,Protapes,gallus
+Rosefishes nei,"Ocean perch,  (multispecies), Coral cod",,17801017XX,ROK,Scorpaeniformes,Scorpaenidae,helicolenus,spp.
+Round sardinella,"False sardine, Spanish sardine",,1210501210,SAA,Clupeiformes,Clupeidae,sardinella,aurita
+Round scad,"Round scad, Cigar minnow, Cigarfish",,1702304301,WEC,Perciformes,Carangidae,Decapterus,punctatus
+Roundnose grenadier,,,1480600401,RNG,Gadiformes,Macrouridae,coryphaenoides,rupestris
+Royal red shrimp,,,2282900603,RRS,Natantia,Solenoceridae,pleoticus,robustus
+,Rubio,,17801017XX,ROK,"","",Helicolenus,lahillei
+Sablefish,,,1780800401,SAB,Scorpaeniformes,Anoplopomatidae,Anoplopoma,fimbria
+Saffron cod,,,1480401202,SAF,Gadiformes,Gadidae,eleginus,gracilis
+Saithe,,,1480401501,POK,Gadiformes,Gadidae,pollachius,virens
+,Sand crab,,2311101301,OVP,Decapoda,Ovalipidae,Ovalipes,punctatus
+Sand gaper,"Softshell clam, Steamer clam",,3161700601,CLS,Bivalvia,Myidae,mya,arenaria
+Sand oyster,,,3160700602,IOM,Bivalvia,Ostreidae,striostrea,margaritacea
+Sandbar shark,Brown shark,,1080201001,CCP,Carcharhiniformes,Carcharhinidae,carcharhinus,plumbeus
+Sandbird octopus,,,3210900509,OUJ,Cephalopoda,Octopodidae,Amphioctopus,aegina
+Sandeels nei,Sandlances nei,,17204002XX,SAN,Trachinoidei,Ammodytidae,Ammodytes,spp.
+Santer seabream,Santer,,1703911802,SLD,Percoidei,Sparidae,cheimerius,nufar
+Sardinellas nei,,,12105012XX,SIX,Clupeiformes,Clupeidae,Sardinella,spp
+Scads nei,,,17023043XX,SDX,Perciformes,Carangidae,Decapterus,spp
+Scaled herring,Scaled sardine,,1210503308,HCG,Clupeiformes,Clupeidae,Harengula,jaguana
+Scallops nei,(multispecies),,31608XXXXX,SCX,Bivalvia,Pectinidae,"",""
+Scarlet shrimp,"great red shrimp, Gambon écarlate (France), Gamba carabinero (Spain)",,2280202101,SSH,Natantia,Aristaeidae,Aristaeopsis,edwardsiana
+Scup,,,1703935301,SCP,Percoidei,Sparidae,stenotomus,chrysops
+Sea cucumbers nei,(multispecies),,694XXXXXXX,CUX,Holothuroidea,"","",""
+Sea trout,,,1230100402,TRS,Salmoniformes,Salmonidae,salmo,trutta
+Searobins nei,Gallineta,Searobins,17802020XX,SRA,Scorpaeniformes,Triglidae,Prionotus,spp
+Senatorial scallop,,,3160803611,KLN,Bivalvia,Pectinidae,Mimachlamys,sanguinea
+Senegalese hake,,,1480500402,HKM,Gadiformes,Merlucciidae,Merluccius,senegalensis
+Shallow-water Cape hake,,,1480500419,HKK,Gadiformes,Merlucciidae,merluccius,capensis
+Sheepshead,,,1703910201,SPH,Percoidei,Sparidae,archosargus,probatocephalus
+Short mackerel,,,1750101401,RAB,Scombroidei,Scombridae,Rastrelliger,brachysoma
+Short-finned eel,Short-fin eel ,,1430200207,ELU,Anguilliformes,Anguillidae,anguilla,australis
+Shortbill spearfish,"Spearfish, broadbill spearfish, hebi",,1750300905,SSP,Scombroidei,Istiophoridae,tetrapturus,angustirostris
+Shortfin mako,,,1060800201,SMA,Lamniformes,Lamnidae,isurus,oxyrinchus
+Shortfin scad,"Long-bodied Scad, Slender Scad, Picudillo",,1702304303,DCC,Perciformes,Carangidae,Decapterus,macrosoma
+Shorthead anchovy,,,1210600702,ECT,Clupeiformes,Engraulidae,encrasicholina,heteroloba
+Shortjaw leatherjacket,Sardina piña,,1702304903,OLG,Percoidei,Carangidae,Oligoplites,refulgens
+,Shortraker rockfish,,1780100120,SFB,"","",Sebastes,borealis
+Shortspine thornyhead,,,1780107901,SJU,Scorpaeniformes,Scorpaenidae,sebastolobus,alascanus
+Siberian sturgeon,Siberian sturgeon,,1170100112,APB,Acipenseriformes,Acipenseridae,Acipenser,baerii
+Sickle pomfret,"monchong, bigscale pomfret",,1702700404,TST,Percoidei,Bramidae,taractichthys,steindachneri
+Sidestripe shrimp,,,2280403701,NDD,Natantia,Pandalidae,pandalopsis,dispar
+Silk snapper,"Red snapper, Day Snapper, Yellow-Eyed (Red) Snapper",,1703202734,LTJ,Percoidei,Lutjanidae,lutjanus,vivanus
+Silky shark,,,1080201017,FAL,Carcharhiniformes,Carcharhinidae,carcharhinus,falciformis
+Silver carp,,,1400204301,SVC,Cypriniformes,Cyprinidae,Hypophthalmichthys,molitrix
+Silver cobbler,"Lake Argyle catfish, Lake Argyle ",,1410210002,JJT,Siluriformes,Ariidae,Neoarius,midgleyi
+Silver gemfish,,,1750500901,GEM,Scombroidei,Gempylidae,rexea,solandri
+Silver hake,,,1480500404,HKS,Gadiformes,Merlucciidae,merluccius,bilinearis
+Silver pomfret,,,1760300901,SIP,"Stromateoidei, Anabantoidei",Stromateidae,pampus,argenteus
+Silver seabream,"Snapper, Pink snapper",,1703919115,GSU,Percoidei,Sparidae,pagrus,auratus
+Silver sillago,"northern whiting, Kacapiring",,1701523304,ILS,Percoidei,Sillaginidae,sillago,sihama
+Silver warehou,,,1760801004,SEP,"Stromateoidei, Anabantoidei",Centrolophidae,seriolella,punctata
+Silvery lightfish,pennant lightfish,,1250203001,MAV,Stomiiformes,Sternoptychidae,maurolicus,muelleri
+Skipjack tuna,,,1750102501,SKJ,Scombroidei,Scombridae,katsuwonus,pelamis
+Slender thread herring,,,1210504203,OPU,Clupeiformes,Clupeidae,opisthonema,bulleri
+Slipper cupped oyster,,,3160700811,CSI,Bivalvia,Ostreidae,Crassostrea,iredalei
+Small-spotted catshark,Lesser Spotted Dogfish ,,1080100301,SYC,Carcharhiniformes,Scyliorhinidae,scyliorhinus,canicula
+Smooth oreo dory,,,1620400201,SSO,Zeiformes,Oreosomatidae,pseudocyttus,maculatus
+Smoothtail spiny lobster,green lobster,,2290100112,NUL,Decapoda,Palinuridae,Panulirus,laevicauda
+Snakehead,,,1771900101,CNA,Other Perciformes,Channidae,Channa,argus
+Snappers nei,Red snappers,,17032027XX,SNA,Percoidei,Lutjanidae,lutjanus,spp.
+"Snappers, jobfishes nei",(multispecies),,17032XXXXX,SNX,Percoidei,Lutjanidae,"",""
+Snowy grouper,Spotted Grouper,,1700204230,EFV,Percoidei,Serranidae,epinephelus,niveatus
+Sockeye salmon,,,1230100906,SOC,Salmoniformes,Salmonidae,oncorhynchus,nerka
+Soldierbream,,,1703910503,KBK,Percoidei,Sparidae,argyrops,filamentosus
+South American pilchard,"Australian pilchard, California pilchard, Japanese pilchard, Southern African pilchard",,1210501303,CHP,Clupeiformes,Clupeidae,Sardinops,sagax
+South Pacific hake,merluza común,,1480500405,PHA,Gadiformes,Merlucciidae,Merluccius,gayi gayi
+South Pacific hake,Peruvian hake,,1480500405,PHA,Gadiformes,Merlucciidae,Merluccius,gayi peruanus
+Southern blue whiting,New Zealand southern blue whiting,,1480403302,POS,Gadiformes,Gadidae,Micromesistius,australis
+Southern bluefin tuna,,,1750102608,SBF,Scombroidei,Scombridae,thunnus,maccoyii
+Southern flounder,Fluke,,1830804609,YSH,Pleuronectiformes,Paralichthyidae,paralichthys,lethostigma
+Southern hake,,,1480500403,HKN,Gadiformes,Merlucciidae,merluccius,australis
+Southern king crab,,,2302007001,KCR,Anomura,Lithodidae,lithodes,santolla
+Southern kingcroaker,,,1703703901,KGB,Percoidei,Sciaenidae,menticirrhus,americanus
+Southern meagre,,,1703710606,KOB,Percoidei,Sciaenidae,Argyrosomus,japonicus
+Southern pink shrimp,,,2280100131,SOP,Decapoda,Penaeidae,Farfantepenaeus,notialis
+Southern rays bream,"pomfret, reineta",,1702700302,BRU,Percoidei,Bramidae,brama,australis
+Southern red snapper,Pargo,,1703202722,SNC,Percoidei,Lutjanidae,lutjanus,purpureus
+Southern rough shrimp,,,2280104302,TRV,Natantia,Penaeidae,trachypenaeus,curvirostris
+Spangled emperor,"Lencam, Green snapper",,1703817202,LHN,Percoidei,Lethrinidae,lethrinus,nebulosus
+Spear shrimp,"Crevette javelot, Camarón lanzón ",,2280101907,NAW,Natantia,Penaeidae,parapenaeopsis,hardwickii
+Speckled shrimp,"Crevette mouchetée (French), Camarón moteado (Spain) ",,2280101601,MPN,Natantia,Penaeidae,metapenaeus,monoceros
+Spinefeet nei,Rabbitfishes nei,,17407001XX,SPI,Perciformes,Siganidae,Siganus,spp
+Spiny lobsters nei,(multispecies),,22901XXXXX,VLO,Reptantia,Palinuridae,"",""
+Spiny turbots nei,"(multispecies), Ikan sebelah",,18307XXXXX,HPX,Pleuronectiformes,Psettodidae,"",""
+Spinycheek grouper,,,1700204207,ELD,Percoidei,Serranidae,epinephelus,diacanthus
+Splitnose rockfish,,,1780100122,SFD,Scorpaeniformes,Scorpaenidae,sebastes,diploproa
+Spot croaker,,,1703736301,SPT,Percoidei,Sciaenidae,leiostomus,xanthurus
+Spot shrimp,,,2280400202,PWY,Natantia,Pandalidae,pandalus,platyceros
+Spottail shark,"Spot-tail shark, Blacktip shark",,1080201031,CCQ,Carcharhiniformes,Carcharhinidae,carcharhinus,sorrah
+Spotted ray,"Spotted Skate, Homelyn Ray, Spotted Homelyn Ray",,1100400104,RJM,Rajiformes,Rajidae,raja,montagui
+Spotted rose snapper,Rose snapper,,1703202729,LJS,Percoidei,Lutjanidae,lutjanus,guttatus
+Spotted weakfish,Spotted seatrout,,1703701609,SWF,Percoidei,Sciaenidae,cynoscion,nebulosus
+Spotted wolffish,,,1710200103,CAS,Zoarcoidei,Anarhichadidae,anarhichas,minor
+Squalid callista,,,3161101802,EGQ,Bivalvia,Veneridae,Megapitaria,squalida
+St.Paul rock lobster,St.Paul rock lobster,,2290100208,JSP,"","",Jasus,paulensis
+Starry flounder,,,1830204804,PWQ,Pleuronectiformes,Pleuronectidae,platichthys,stellatus
+Starry ray,"Starry Skate, Thorny Skate, Maiden Ray",,1100400103,RJR,Rajiformes,Rajidae,raja,radiata
+Stimpson's surf clam,,,3161202002,CLT,Bivalvia,Mactridae,spisula,polynyma
+Stolzmann's weakfish,,,1703701631,YNZ,Percoidei,Sciaenidae,cynoscion,stolzmanni
+Striped Weakfish,Corvinata pescadilla,,1703701617,WKS,Perciformes,Sciaenidae,Cynoscion,striatus
+Striped bass,,,1700600602,STB,Percoidei,Moronidae,morone,saxatilis
+Striped catfish,,,1413000203,PGS,Siluriformes,Pangasiidae,Pangasius,hypophthalmus
+Striped marlin,,,1750300903,MLS,Scombroidei,Istiophoridae,Kajikia,audax
+Striped venus,Striped venus,,3161100105,SVE,"","",Chamelea,gallina
+Stripped weakfish,"Maria-mole, Pescada maria mole, Pescada-olhuda, Corvinata listada, Pescadilla de calada",,1703701632,YGC,Perciformes,Sciaenidae,Cynoscion,guatucupa
+Summer flounder,,,1830804606,FLS,Pleuronectiformes,Paralichthyidae,paralichthys,dentatus
+Surmullet,Striped red mullet,,1704100701,MUR,Percoidei,Mullidae,mullus,surmuletus
+,"Swollen trumpet, Pustular Triton",,"",FS-2129,Littorinimorpha,Cymatiidae,Argobuccinum,pustulosum
+Swordfish,,,1750400301,SWO,Scombroidei,Xiphiidae,xiphias,gladius
+Swordtip squid,,,3210400106,OJE,Cephalopoda,Loliginidae,Uroteuthis (Photololigo),edulis
+Sydney cupped oyster,,,3160700310,OYS,Bivalvia,Ostreidae,Saccostrea,commercialis
+Taca clam,,,3161105503,TCL,Venerida,Veneridae,Leukoma,thaca
+Tallfin croaker,,,1703703805,MIT,Percoidei,Sciaenidae,micropogonias,altipinnis
+Tanner crab,Bairdi snow crab,,2312114502,CVB,Brachyura,Majidae,chionoecetes,bairdi
+Tarakihi,Jackass morwong ,,1707030504,TAK,Percoidei,Cheilodactylidae,nemadactylus,macropterus
+Thornback ray,,,1100400102,RJC,Rajiformes,Rajidae,raja,clavata
+Thread herrings nei,(multispecies),,12105042XX,THX,Clupeiformes,Clupeidae,Opisthonema,spp.
+Threadfin breams nei,,,17033184XX,THB,Percoidei,Nemipteridae,nemipterus,spp.
+Threespot swimming crab,red-spot swimming crab,,2311100407,UNG,Decapoda,Portunidae,Portunus,sanguinolentus
+Tiger flathead,,,1780901805,PHI,Scorpaeniformes,Platycephalidae,platycephalus,richardsoni
+Tigertooth croaker,,,1703718603,LKR,Percoidei,Sciaenidae,otolithes,ruber
+Tilapias nei,,,17059051XX,TLP,"","",Oreochromis,spp
+,Tilapias nei (multispecies),,17059051XX,TLP,Percoidei,Cichlidae,Oreochromis,spp.
+Titi shrimp,"Camarón pomada, Camaroncillo",,2280100301,RRJ,Natantia,Penaeidae,protrachypene,precipua
+Tonguesole nei,(multispecies),,18304031XX,YOX,Pleuronectiformes,Cynoglossidae,Cynoglossus,spp.
+Tope shark,,,1080401103,GAG,Carcharhiniformes,Triakidae,galeorhinus,galeus
+Torpedo-shaped catfishes nei,,,14118030XX,CTO,Siluriformes,Clariidae,Clarias,spp.
+Triangle tanner crab,,,23121145XX,PCR,Decapoda,Majidae,Chionoecetes,angulatus
+Tristan da Cunha rock lobster,Brazil Tristan rock lobster,,2290100205,LBT,Reptantia,Palinuridae,jasus,tristani
+Tropical spiny lobsters nei,"(multispecies), Spiny lobsters",,22901001XX,SLV,Reptantia,Palinuridae,Panulirus,spp.
+True tunas nei,,,17501026XX,TUS,Scombroidei,Scombridae,Thunnus,spp.
+Truncate donax,,,3161500217,DXL,Cardiida,Donacidae,Donax,trunculus
+Turbot,Pregado,,1830509201,TUR,Pleuronectiformes,Scophthalmidae,Scophthalmus,maximus
+Tusk,cusk,,1480400101,USK,Gadiformes,Gadidae,Brosme,brosme
+Two-spot red snapper,"Twinspot snapper, Bohar snapper",,1703202742,LJB,Percoidei,Lutjanidae,lutjanus,bohar
+Undulate venus,,,3161104102,PAU,Bivalvia,Veneridae,paphia,undulata
+Unicorn leatherjacket filefish,,,1900900302,ALM,Tetraodontiformes,Monacanthidae,aluterus,monoceros
+Uroteuthis squids nei,Uroteuthis squids nei (multispecies); bolpen,,32104XXXXX,SQC,Cephalopoda,Loliginidae,Uroteuthis,spp.
+Various squids nei,(multispecies),,32105XXXXX036,SQU,Cephalopoda,"","loliginidae,",ommastrephidae
+Veined squid,,,3210400113,SQF,Cephalopoda,Loliginidae,Loligo,forbesii
+Velvet swimcrab,,,2311119501,LIO,Brachyura,Portunidae,necora,puber
+Vendace,,,1231200101,FVE,Salmoniformes,Coregonidae,coregonus,albula
+,Veneid octopus,,"",FS-2110,Octopoda,Octopodidae,Amphioctopus,marginatus
+Vermilion snapper,,,1703222501,RPU,Percoidei,Lutjanidae,rhomboplites,aurorubens
+Wahoo,ono,,1750101001,WAH,Scombroidei,Scombridae,acanthocybium,solandri
+Walleye,"Yellow , Pickerel",,1701436101,STV,Percoidei,Percidae,Sander,vitreus
+Warrior swimcrab,"warrior swimming crab, Cortez swimming crab",,2311101213,KLI,Brachyura,Portunidae,Callinectes,bellicosus
+,"Warty swimming crab, red swimming crab",,2311100411,QAI,Brachyura,Portunidae,Monomia,haanii
+Webfoot octopus,,,3210900520,OQR,Octopoda,Octopodidae,Amphioctopus,membranaceus
+Wellington flying squid,"Arrow squid, Flying squid, Encornet minami,  Pota neozelandesa",,3210505901,TSQ,Cephalopoda,Ommastrephidae,Nototodarus,sloanii
+West African geryon,,,2314300102,CGE,"","",Chaceon,maritae
+West African goatfish,West African goatfish,,1704149903,GOA,"",Mullidae,Pseudupeneus,prayensis
+Western king prawn,king prawn,,2280100128,WKP,Natantia,Penaeidae,penaeus,latisulcatus
+Western white shrimp,camarón blanco,,2280100129,WWP,Natantia,Penaeidae,Penaeus,occidentalis
+Whelk,Common ,,3070800101,WHE,Gastropoda,Buccinidae,buccinum,undatum
+Whiparm octopus,,,3210900505,OKJ,Cephalopoda,Octopodidae,octopus,variabilis
+Whiskered velvet shrimp,,,2280106203,MJB,Natantia,Penaeidae,metapenaeopsis,barbata
+White bass,,,1700600604,ROY,Percoidei,Moronidae,morone,chrysops
+White hake,Atlantic ,,1480400803,HKW,Gadiformes,Gadidae,urophycis,tenuis
+White perch,,,1700600603,PEW,Percoidei,Moronidae,morone,americana
+,White scallop,,"",FS-537,Pectinida,Pectinidae,Chlamys,albida
+White snook,,,1700102511,JPV,"","",Centropomus,viridis
+White sturgeon,White sturgeon,,1170100109,APN,Acipenseriformes,Acipenseridae,Acipenser,transmontanus
+White trevally,"Silver trevally, Araara",,1702301127,TRZ,Percoidei,Carangidae,pseudocaranx,dentex
+White-spotted spinefoot,,,1740700108,SCN,Acanthuroidei,Siganidae,siganus,canaliculatus
+Whiteleg shrimp,Camarón blanco,,2280100111,PNV,Natantia,Penaeidae,Penaeus,vannamei
+Whitemouth croaker,,,1703703802,CKM,Percoidei,Sciaenidae,Micropogonias,furnieri
+Whiting,,,1480403401,WHG,Gadiformes,Gadidae,merlangius,merlangus
+Widow rockfish,,,1780100103,WRO,Scorpaeniformes,Scorpaenidae,sebastes,entomelas
+Winter flounder,,,1830205003,FLW,Pleuronectiformes,Pleuronectidae,pseudopleuronectes,americanus
+Winter skate,,,1100400189,RJT,Rajiformes,Rajidae,Leucoraja,ocellata
+Witch flounder,,,1830201102,WIT,Pleuronectiformes,Pleuronectidae,Glyptocephalus,cynoglossus
+Wuchang bream,,,1400215101,WUB,Cypriniformes,Cyprinidae,Megalobrama,amblycephala
+Yellow catfish,,,1410813001,YCH,Siluriformes,Bagridae,Pelteobagrus,fulvidraco
+Yellow snapper,,,1703202720,HUS,Percoidei,Lutjanidae,Lutjanus,argentiventris
+Yellow-eye mullet,,,1650100401,MAD,Mugiliformes,Mugilidae,aldrichetta,forsteri
+Yellowedge grouper,,,1700204224,EEL,Percoidei,Serranidae,epinephelus,flavolimbatus
+Yelloweye rockfish,,,1780100135,RRV,Scorpaeniformes,Scorpaenidae,sebastes,ruberrimus
+Yellowfin sole,,,1830202402,YES,Pleuronectiformes,Pleuronectidae,limanda,aspera
+Yellowfin tuna,,,1750102610,YFT,Scombroidei,Scombridae,thunnus,albacares
+Yellowleg shrimp,"Camarón café, Camarón patiamarillo",,2280100104,YPS,Natantia,Penaeidae,Penaeus,californiensis
+Yellowmouth rockfish,,,1780100130,SWD,Scorpaeniformes,Sebastidae,Sebastes,reedi
+Yellowstripe scad,,,1702342201,TRY,Percoidei,Carangidae,selaroides,leptolepis
+Yellowtail amberjack,,,1702304806,YTC,Percoidei,Carangidae,Seriola,lalandi
+Yellowtail flounder,,,1830202404,YEL,Pleuronectiformes,Pleuronectidae,limanda,ferruginea
+Yellowtail rockfish,,,1780100104,YRO,Scorpaeniformes,Scorpaenidae,sebastes,flavidus
+Yellowtail snapper,Gaiúba,,1703202801,SNY,Percoidei,Lutjanidae,ocyurus,chrysurus
+Yesso scallop,"Zhangzidao scallop, Japanese scallop",,3160806607,JSC,Bivalvia,Pectinidae,patinopecten,yessoensis
