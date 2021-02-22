@@ -1,0 +1,325 @@
+gid,f_code,f_level,ocean,f_area,f_subarea,f_division,f_subdivis,f_subunit,sfp_identifier,name_en,name_es
+1,18,MAJOR,Arctic,18,,,,,FAO 18,Arctic Sea,Mar Ártico
+2,61,MAJOR,Pacific,61,,,,,FAO 61,"Pacific, Northwest","Pacífico, noroeste"
+3,67,MAJOR,Pacific,67,,,,,FAO 67,"Pacific, Northeast","Pacífico, nordeste"
+4,37,MAJOR,Atlantic,37,,,,,FAO 37,Mediterranean and Black Sea,Mediterráneo y Mar Negro
+5,27,MAJOR,Atlantic,27,,,,,FAO 27,"Atlantic, Northeast","Atlántico, nordeste"
+6,31,MAJOR,Atlantic,31,,,,,FAO 31,"Atlantic, Western Central","Atlántico, centro-occidental"
+7,34,MAJOR,Atlantic,34,,,,,FAO 34,"Atlantic, Eastern Central","Atlántico, centro-oriental"
+8,51,MAJOR,Indian,51,,,,,FAO 51,"Indian Ocean, Western","Océano Índico, occidental"
+9,57,MAJOR,Indian,57,,,,,FAO 57,"Indian Ocean, Eastern","Océano Índico, oriental"
+10,71,MAJOR,Pacific,71,,,,,FAO 71,"Pacific, Western Central","Pacífico, centro-occidental"
+11,87,MAJOR,Pacific,87,,,,,FAO 87,"Pacific, Southeast","Pacífico, sudoriental"
+12,41,MAJOR,Atlantic,41,,,,,FAO 41,"Atlantic, Southwest","Atlántico, sudoccidental"
+13,81,MAJOR,Pacific,81,,,,,FAO 81,"Pacific, Southwest","Pacífico, sudoccidental"
+14,58,MAJOR,Indian,58,,,,,FAO 58,"Indian Ocean, Antarctic","Océano Índico, Antártico"
+15,48,MAJOR,Atlantic,48,,,,,FAO 48,"Atlantic, Antarctic","Atlántico, Antártico"
+16,88,MAJOR,Pacific,88,,,,,FAO 88,"Pacific, Antarctic","Pacífico, Antártico"
+17,77,MAJOR,Pacific,77,,,,,FAO 77,"Pacific, Eastern Central","Pacífico, centro-oriental"
+18,47,MAJOR,Atlantic,47,,,,,FAO 47,"Atlantic, Southeast","Atlántico, sudoriental"
+19,21,MAJOR,Atlantic,21,,,,,FAO 21,"Atlantic, Northwest","Atlántico, noroeste"
+20,37.4,SUBAREA,Atlantic,37,37.4,,,,FAO 37.4,Black Sea subarea,Subárea mar Negro
+21,37.1,SUBAREA,Atlantic,37,37.1,,,,FAO 37.1,Western subarea,Subárea occidental
+22,27.12,SUBAREA,Atlantic,27,27.12,,,,FAO 27.12,North of Azores (Subarea 27.12),Norte de las Azores (Subárea 27.12)
+23,37.2,SUBAREA,Atlantic,37,37.2,,,,FAO 37.2,Central subarea,Subárea central
+24,37.3,SUBAREA,Atlantic,37,37.3,,,,FAO 37.3,Eastern subarea,Subárea oriental
+25,34.2,SUBAREA,Atlantic,34,34.2,,,,FAO 34.2,Northern oceanic subarea,Subárea oceánica norte
+26,34.1,SUBAREA,Atlantic,34,34.1,,,,FAO 34.1,Northern coastal subarea,Subárea costera norte
+27,51.2,SUBAREA,Indian,51,51.2,,,,FAO 51.2,Gulf subarea,Subárea Golfo
+28,57.1,SUBAREA,Indian,57,57.1,,,,FAO 57.1,"Indian Ocean, East / 57.1",Ind E / 57.1
+29,34.4,SUBAREA,Atlantic,34,34.4,,,,FAO 34.4,Southern oceanic subarea,Subárea oceánica sur
+30,34.3,SUBAREA,Atlantic,34,34.3,,,,FAO 34.3,Southern coastal subarea,Subárea costera sur
+36,51.7,SUBAREA,Indian,51,51.7,,,,FAO 51.7,"Indian Ocean, West / 51.7",Ind W / 51.7
+31,51.5,SUBAREA,Indian,51,51.5,,,,FAO 51.5,"Indian Ocean, West / 51.5",Ind W / 51.5
+32,87.1,SUBAREA,Pacific,87,87.1,,,,FAO 87.1,"Pacific, Southeast / 87.1","Pacific, Southeast / 87.1"
+33,41.1,SUBAREA,Atlantic,41,41.1,,,,FAO 41.1,"Atlantic, Southwest / 41.1",Atl SW / 41.1
+34,57.2,SUBAREA,Indian,57,57.2,,,,FAO 57.2,"Indian Ocean, East / 57.2",Ind E / 57.2
+35,51.6,SUBAREA,Indian,51,51.6,,,,FAO 51.6,"Indian Ocean, West / 51.6",Ind W / 51.6
+37,51.8,SUBAREA,Indian,51,51.8,,,,FAO 51.8,"Indian Ocean, West / 51.8",Ind W / 51.8
+38,57.5,SUBAREA,Indian,57,57.5,,,,FAO 57.5,"Indian Ocean, East / 57.5",Ind E / 57.5
+39,57.3,SUBAREA,Indian,57,57.3,,,,FAO 57.3,"Indian Ocean, East / 57.3",Ind E / 57.3
+44,58.7,SUBAREA,Indian,58,58.7,,,,FAO 58.7,Indian Antarctic 58.7,Ind Antar 58.7
+242,87.1.24,SUBDIVISION,Pacific,87,87.1,87.1.2,87.1.24,,FAO 87.1.24,"Pacific, Southeast / 87.1.24","Pacific, Southeast / 87.1.24"
+40,87.2,SUBAREA,Pacific,87,87.2,,,,FAO 87.2,"Pacific, Southeast / 87.2","Pacific, Southeast / 87.2"
+41,41.2,SUBAREA,Atlantic,41,41.2,,,,FAO 41.2,"Atlantic, Southwest / 41.2",Atl SW / 41.2
+42,57.4,SUBAREA,Indian,57,57.4,,,,FAO 57.4,"Indian Ocean, East / 57.4",Ind E / 57.4
+43,87.3,SUBAREA,Pacific,87,87.3,,,,FAO 87.3,"Pacific, Southeast / 87.3","Pacific, Southeast / 87.3"
+45,58.6,SUBAREA,Indian,58,58.6,,,,FAO 58.6,Indian Antarctic 58.6,Ind Antar 58.6
+46,58.5,SUBAREA,Indian,58,58.5,,,,FAO 58.5,Indian Antarctic 58.5,Ind Antar 58.5
+47,41.3,SUBAREA,Atlantic,41,41.3,,,,FAO 41.3,"Atlantic, Southwest / 41.3",Atl SW / 41.3
+48,27.10,SUBAREA,Atlantic,27,27.10,,,,FAO 27.10,Azores Grounds and Northeast Atlantic South (Subarea  27.10),Fondos de las Azores y Atlántico nordeste del sur (Subárea 27.10)
+49,27.9,SUBAREA,Atlantic,27,27.9,,,,FAO 27.9,Portuguese Waters (Subarea 27.9),Aguas Portuguesas (Subárea 27.9)
+50,48.3,SUBAREA,Atlantic,48,48.3,,,,FAO 48.3,Atlantic Antarctic / 48.3,Atl Antar / 48.3
+51,48.4,SUBAREA,Atlantic,48,48.4,,,,FAO 48.4,Atlantic Antarctic / 48.4,Atl Antar / 48.4
+52,58.4,SUBAREA,Indian,58,58.4,,,,FAO 58.4,Indian Antarctic 58.4,Ind Antar 58.4
+53,48.2,SUBAREA,Atlantic,48,48.2,,,,FAO 48.2,Atlantic Antarctic / 48.2,Atl Antar / 48.2
+54,88.1,SUBAREA,Pacific,88,88.1,,,,FAO 88.1,Pacific Antarctic / 88.1,Pac Antar / 88.1
+55,88.3,SUBAREA,Pacific,88,88.3,,,,FAO 88.3,Pacific Antarctic / 88.3,Pac Antar / 88.3
+56,48.1,SUBAREA,Atlantic,48,48.1,,,,FAO 48.1,Atlantic Antarctic / 48.1,Atl Antar / 48.1
+57,51.3,SUBAREA,Indian,51,51.3,,,,FAO 51.3,Western Arabian Sea subarea,Subárea mar Árabe occidental
+58,51.1,SUBAREA,Indian,51,51.1,,,,FAO 51.1,Red Sea subarea,Subárea mar Rojo
+59,57.6,SUBAREA,Indian,57,57.6,,,,FAO 57.6,"Indian Ocean, East / 57.6",Ind E / 57.6
+60,51.4,SUBAREA,Indian,51,51.4,,,,FAO 51.4,"Indian Ocean, West / 51.4",Ind W / 51.4
+61,48.6,SUBAREA,Atlantic,48,48.6,,,,FAO 48.6,Atlantic Antarctic / 48.6,Atl Antar / 48.6
+62,48.5,SUBAREA,Atlantic,48,48.5,,,,FAO 48.5,Atlantic Antarctic / 48.5,Atl Antar / 48.5
+63,88.2,SUBAREA,Pacific,88,88.2,,,,FAO 88.2,Pacific Antarctic / 88.2,Pac Antar / 88.2
+64,47.A,SUBAREA,Atlantic,47,47.A,,,,FAO 47.A,,
+65,21.1,SUBAREA,Atlantic,21,21.1,,,,FAO 21.1,"Atlantic, Northwest / 21.1",Atl NW / 21.1
+66,21.2,SUBAREA,Atlantic,21,21.2,,,,FAO 21.2,"Atlantic, Northwest / 21.2",Atl NW / 21.2
+67,21.3,SUBAREA,Atlantic,21,21.3,,,,FAO 21.3,"Atlantic, Northwest / 21.3",Atl NW / 21.3
+68,47.1,SUBAREA,Atlantic,47,47.1,,,,FAO 47.1,Western coastal subarea,Subárea costera occidental
+69,47.C,SUBAREA,Atlantic,47,47.C,,,,FAO 47.C,,
+70,47.D,SUBAREA,Atlantic,47,47.D,,,,FAO 47.D,,
+88,37.1.2,DIVISION,Atlantic,37,37.1,37.1.2,,,FAO 37.1.2,Gulf of Lion,Golfo de León
+71,47.2,SUBAREA,Atlantic,47,47.2,,,,FAO 47.2,Agulhas coastal subarea,Subárea costera de Agulhas
+72,27.8,SUBAREA,Atlantic,27,27.8,,,,FAO 27.8,Bay of Biscay (Subarea 27.8),Golfo de Vizcaya (Subárea 27.8)
+73,21.4,SUBAREA,Atlantic,21,21.4,,,,FAO 21.4,"Atlantic, Northwest / 21.4",Atl NW / 21.4
+74,21.5,SUBAREA,Atlantic,21,21.5,,,,FAO 21.5,"Atlantic, Northwest / 21.5",Atl NW / 21.5
+75,21.6,SUBAREA,Atlantic,21,21.6,,,,FAO 21.6,"Atlantic, Northwest / 21.6",Atl NW / 21.6
+76,21.0,SUBAREA,Atlantic,21,21.0,,,,FAO 21.0,"Atlantic, Northwest / 21.0",Atl NW / 21.0
+77,47.B,SUBAREA,Atlantic,47,47.B,,,,FAO 47.B,,
+78,27.7,SUBAREA,Atlantic,27,27.7,,,,FAO 27.7,"Irish Sea, West of Ireland, Porcupine Bank, Eastern and Western English Channel, etc (Subarea 27.7)","Mar de Irlanda, Oeste de Irlanda, Porcupine Bank, Canal de La Mancha, etc. (Subárea 27.7)"
+79,27.4,SUBAREA,Atlantic,27,27.4,,,,FAO 27.4,North Sea (Subarea 27.4),Mar del Norte (Subárea 27.4)
+80,27.3,SUBAREA,Atlantic,27,27.3,,,,FAO 27.3,"Skagerrak, Kattegat, Sound, Belt Sea, and Baltic Sea (Subarea 27.3)","Skagerrak, Kattegat, Sund,  Mar de Belt y Mar Báltico (Subárea 27.3)"
+81,27.6,SUBAREA,Atlantic,27,27.6,,,,FAO 27.6,"Rockall, Northwest Coast of Scotland and North Ireland (Subarea 27.6)","Rockall, costa nord-occidental de Escocia e Irlanda del Norte (Subárea 27.6)"
+82,27.5,SUBAREA,Atlantic,27,27.5,,,,FAO 27.5,Iceland and Faroes Grounds (Subarea 27.5),Fondos de Islandia y de las Feroe (Subárea 27.5)
+83,27.14,SUBAREA,Atlantic,27,27.14,,,,FAO 27.14,East Greenland (Subarea 27.14),Groenlandia oriental (Subárea 27.14)
+84,27.2,SUBAREA,Atlantic,27,27.2,,,,FAO 27.2,"Norwegian Sea, Spitzbergen, and Bear Island (Subarea 27.2)","Mar de Noruega, Spitzbergen e Islas Osos (Subárea 27.2)"
+85,27.1,SUBAREA,Atlantic,27,27.1,,,,FAO 27.1,Barents Sea (Subarea 27.1),Mar de Barents (Subárea 27.1)
+86,37.4.2,DIVISION,Atlantic,37,37.4,37.4.2,,,FAO 37.4.2,Black Sea,Mar Negro
+89,37.1.3,DIVISION,Atlantic,37,37.1,37.1.3,,,FAO 37.1.3,Sardinia,Cerdeña
+87,37.4.3,DIVISION,Atlantic,37,37.4,37.4.3,,,FAO 37.4.3,Azov Sea,Mar de Azov
+90,27.12.b,DIVISION,Atlantic,27,27.12,27.12.b,,,FAO 27.12.b,Western Hatton Bank (Division 27.12.b),Norte de las Azores (División 27.12.b)
+257,87.2.16,SUBDIVISION,Pacific,87,87.2,87.2.1,87.2.16,,FAO 87.2.16,87.2.16,87.2.16
+91,37.2.1,DIVISION,Atlantic,37,37.2,37.2.1,,,FAO 37.2.1,Adriatic,Adriático
+92,37.2.2,DIVISION,Atlantic,37,37.2,37.2.2,,,FAO 37.2.2,Ionian,Jónio
+93,37.3.1,DIVISION,Atlantic,37,37.3,37.3.1,,,FAO 37.3.1,Aegean,Egeo
+258,87.2.27,SUBDIVISION,Pacific,87,87.2,87.2.2,87.2.27,,FAO 87.2.27,87.2.27,87.2.27
+94,37.4.1,DIVISION,Atlantic,37,37.4,37.4.1,,,FAO 37.4.1,Marmara Sea,Mar de Mármara
+97,34.1.1,DIVISION,Atlantic,34,34.1,34.1.1,,,FAO 34.1.1,Morocco coastal,Costera de Marruecos
+95,37.3.2,DIVISION,Atlantic,37,37.3,37.3.2,,,FAO 37.3.2,Levant,Levante
+96,34.1.2,DIVISION,Atlantic,34,34.1,34.1.2,,,FAO 34.1.2,Canaries/Madeira insular,Insular de Canarias/Madera
+98,34.1.3,DIVISION,Atlantic,34,34.1,34.1.3,,,FAO 34.1.3,Sahara coastal,Costera del Sahara
+99,71.6.2,DIVISION,Pacific,71,_71.6,71.6.2,,,FAO 71.6.2,"Pacific, West central / 71.6.2",Pac WC / 71.6.2
+100,34.4.2,DIVISION,Atlantic,34,34.4,34.4.2,,,FAO 34.4.2,Southwest oceanic,Oceánica sudoccidental
+131,41.3.3,DIVISION,Atlantic,41,41.3,41.3.3,,,FAO 41.3.3,"Atlantic, Southwest / 41.3.3",Atl SW / 41.3.3
+132,27.10.a,DIVISION,Atlantic,27,27.10,27.10.a,,,FAO 27.10.a,Azores Grounds (Division 27.10.a),Fondos de las Azores (División  27.10.a)
+133,27.9.b,DIVISION,Atlantic,27,27.9,27.9.b,,,FAO 27.9.b,Portuguese Waters - West (Division 27.9.b),Aguas Portuguesas - oeste (División 27.9.b)
+101,34.3.2,DIVISION,Atlantic,34,34.3,34.3.2,,,FAO 34.3.2,Cape Verde insular,Insular de Cabo Verde
+102,71.6.1,DIVISION,Pacific,71,_71.6,71.6.1,,,FAO 71.6.1,"Pacific, West central / 71.6.1",Pac WC / 71.6.1
+108,87.1.2,DIVISION,Pacific,87,87.1,87.1.2,,,FAO 87.1.2,"Pacific, Southeast / 87.1.2","Pacific, Southeast / 87.1.2"
+103,34.3.1,DIVISION,Atlantic,34,34.3,34.3.1,,,FAO 34.3.1,Cape Verde coastal,Costera de Cabo Verde
+104,34.3.3,DIVISION,Atlantic,34,34.3,34.3.3,,,FAO 34.3.3,Sherbro,Sherbro
+105,87.1.1,DIVISION,Pacific,87,87.1,87.1.1,,,FAO 87.1.1,"Pacific, Southeast / 87.1.1","Pacific, Southeast / 87.1.1"
+109,87.1.4,DIVISION,Pacific,87,87.1,87.1.4,,,FAO 87.1.4,"Pacific, Southeast / 87.1.4","Pacific, Southeast / 87.1.4"
+110,41.1.1,DIVISION,Atlantic,41,41.1,41.1.1,,,FAO 41.1.1,"Atlantic, Southwest / 41.1.1",Atl SW / 41.1.1
+106,34.3.4,DIVISION,Atlantic,34,34.3,34.3.4,,,FAO 34.3.4,Western Gulf of Guinea,Golfo de Guinea occidental
+119,41.1.4,DIVISION,Atlantic,41,41.1,41.1.4,,,FAO 41.1.4,"Atlantic, Southwest / 41.1.4",Atl SW / 41.1.4
+107,34.3.5,DIVISION,Atlantic,34,34.3,34.3.5,,,FAO 34.3.5,Central Gulf of Guinea,Golfo de Guinea central
+120,34.4.1,DIVISION,Atlantic,34,34.4,34.4.1,,,FAO 34.4.1,Southwest Gulf of Guinea,Golfo de Guinea sudoccidental
+111,87.1.3,DIVISION,Pacific,87,87.1,87.1.3,,,FAO 87.1.3,"Pacific, Southeast / 87.1.3","Pacific, Southeast / 87.1.3"
+123,87.2.5,DIVISION,Pacific,87,87.2,87.2.5,,,FAO 87.2.5,87.2.5,87.2.5
+112,41.1.2,DIVISION,Atlantic,41,41.1,41.1.2,,,FAO 41.1.2,"Atlantic, Southwest / 41.1.2",Atl SW / 41.1.2
+113,41.1.3,DIVISION,Atlantic,41,41.1,41.1.3,,,FAO 41.1.3,"Atlantic, Southwest / 41.1.3",Atl SW / 41.1.3
+114,57.5.1,DIVISION,Indian,57,57.5,57.5.1,,,FAO 57.5.1,"Indian Ocean, East / 57.5.1",Ind E / 57.5.1
+115,87.2.6,DIVISION,Pacific,87,87.2,87.2.6,,,FAO 87.2.6,87.2.6,87.2.6
+116,87.2.2,DIVISION,Pacific,87,87.2,87.2.2,,,FAO 87.2.2,"Pacific, Southeast / 87.2.2","Pacific, Southeast / 87.2.2"
+117,87.2.1,DIVISION,Pacific,87,87.2,87.2.1,,,FAO 87.2.1,"Pacific, Southeast / 87.2.1","Pacific, Southeast / 87.2.1"
+118,41.2.1,DIVISION,Atlantic,41,41.2,41.2.1,,,FAO 41.2.1,"Atlantic, Southwest / 41.2.1",Atl SW / 41.2.1
+121,57.5.2,DIVISION,Indian,57,57.5,57.5.2,,,FAO 57.5.2,"Indian Ocean, East / 57.5.2",Ind E / 57.5.2
+122,87.2.3,DIVISION,Pacific,87,87.2,87.2.3,,,FAO 87.2.3,87.2.3,87.2.3
+124,41.2.2,DIVISION,Atlantic,41,41.2,41.2.2,,,FAO 41.2.2,"Atlantic, Southwest / 41.2.2",Atl SW / 41.2.2
+125,87.2.4,DIVISION,Pacific,87,87.2,87.2.4,,,FAO 87.2.4,87.2.4,87.2.4
+126,87.3.3,DIVISION,Pacific,87,87.3,87.3.3,,,FAO 87.3.3,87.33,87.33
+127,87.3.2,DIVISION,Pacific,87,87.3,87.3.2,,,FAO 87.3.2,"Pacific, Southeast / 87.3.2","Pacific, Southeast / 87.3.2"
+128,87.3.1,DIVISION,Pacific,87,87.3,87.3.1,,,FAO 87.3.1,"Pacific, Southeast / 87.3.1","Pacific, Southeast / 87.3.1"
+129,58.5.1,DIVISION,Indian,58,58.5,58.5.1,,,FAO 58.5.1,Indian Antarctic 58.5.1,Ind Antar 58.5.1
+130,41.2.4,DIVISION,Atlantic,41,41.2,41.2.4,,,FAO 41.2.4,"Atlantic, Southwest / 41.2.4",Atl SW / 41.2.4
+134,58.5.2,DIVISION,Indian,58,58.5,58.5.2,,,FAO 58.5.2,Indian Antarctic 58.5.2,Ind Antar 58.5.2
+135,58.4.4,DIVISION,Indian,58,58.4,58.4.4,,,FAO 58.4.4,Indian Antarctic 58.4.4,Ind Antar 58.4.4
+136,41.2.3,DIVISION,Atlantic,41,41.2,41.2.3,,,FAO 41.2.3,"Atlantic, Southwest / 41.2.3",Atl SW / 41.2.3
+259,87.2.17,SUBDIVISION,Pacific,87,87.2,87.2.1,87.2.17,,FAO 87.2.17,87.2.17,87.2.17
+137,41.3.1,DIVISION,Atlantic,41,41.3,41.3.1,,,FAO 41.3.1,"Atlantic, Southwest / 41.3.1",Atl SW / 41.3.1
+138,37.1.1,DIVISION,Atlantic,37,37.1,37.1.1,,,FAO 37.1.1,Balearic,Baleares
+144,47.A.0,DIVISION,Atlantic,47,47.A,47.A.0,,,FAO 47.A.0,SEAFO division A.0,División SEAFO A.0
+145,47.A.1,DIVISION,Atlantic,47,47.A,47.A.1,,,FAO 47.A.1,SEAFO division A.1,División SEAFO A.1
+146,21.1.D,DIVISION,Atlantic,21,21.1,21.1.D,,,FAO 21.1.D,"Atlantic, Northwest / 21.1.D",Atl NW / 21.1.D
+139,34.3.6,DIVISION,Atlantic,34,34.3,34.3.6,,,FAO 34.3.6,Southern Gulf of Guinea,Golfo de Guinea meridional
+140,41.3.2,DIVISION,Atlantic,41,41.3,41.3.2,,,FAO 41.3.2,"Atlantic, Southwest / 41.3.2",Atl SW / 41.3.2
+141,58.4.2,DIVISION,Indian,58,58.4,58.4.2,,,FAO 58.4.2,Indian Antarctic 58.4.2,Ind Antar 58.4.2
+142,58.4.1,DIVISION,Indian,58,58.4,58.4.1,,,FAO 58.4.1,Indian Antarctic 58.4.1,Ind Antar 58.4.1
+143,58.4.3,DIVISION,Indian,58,58.4,58.4.3,,,FAO 58.4.3,Indian Antarctic 58.4.3,Ind Antar 58.4.3
+147,21.1.E,DIVISION,Atlantic,21,21.1,21.1.E,,,FAO 21.1.E,"Atlantic, Northwest / 21.1.E",Atl NW / 21.1.E
+148,21.2.G,DIVISION,Atlantic,21,21.2,21.2.G,,,FAO 21.2.G,"Atlantic, Northwest / 21.2.G",Atl NW / 21.2.G
+149,21.1.F,DIVISION,Atlantic,21,21.1,21.1.F,,,FAO 21.1.F,"Atlantic, Northwest / 21.1.F",Atl NW / 21.1.F
+150,21.2.H,DIVISION,Atlantic,21,21.2,21.2.H,,,FAO 21.2.H,"Atlantic, Northwest / 21.2.H",Atl NW / 21.2.H
+260,87.3.21,SUBDIVISION,Pacific,87,87.3,87.3.2,87.3.21,,FAO 87.3.21,87.3.21,87.3.21
+151,21.3.M,DIVISION,Atlantic,21,21.3,21.3.M,,,FAO 21.3.M,"Atlantic, Northwest / 21.3.M",Atl NW / 21.3.M
+230,34.1.13,SUBDIVISION,Atlantic,34,34.1,34.1.1,34.1.13,,FAO 34.1.13,"Atlantic, East central / 34.1.13",Atl EC / 34.1.13
+152,21.3.O,DIVISION,Atlantic,21,21.3,21.3.O,,,FAO 21.3.O,"Atlantic, Northwest / 21.3.O",Atl NW / 21.3.O
+153,47.1.1,DIVISION,Atlantic,47,47.1,47.1.1,,,FAO 47.1.1,Cape Palmeirinhas,Cabo Palmeirinhas
+154,47.1.2,DIVISION,Atlantic,47,47.1,47.1.2,,,FAO 47.1.2,Cape Salinas,Cabo Salinas
+155,47.C.0,DIVISION,Atlantic,47,47.C,47.C.0,,,FAO 47.C.0,SEAFO division C.0,División SEAFO C.0
+156,47.D.0,DIVISION,Atlantic,47,47.D,47.D.0,,,FAO 47.D.0,SEAFO division D.0,División SEAFO D.0
+165,27.8.b,DIVISION,Atlantic,27,27.8,27.8.b,,,FAO 27.8.b,Bay of Biscay - Central (Division 27.8.b),Golfo de Vizcaya - centro (División 27.8.b)
+157,47.2.2,DIVISION,Atlantic,47,47.2,47.2.2,,,FAO 47.2.2,Eastern Agulhas,Agulhas oriental
+158,47.2.1,DIVISION,Atlantic,47,47.2,47.2.1,,,FAO 47.2.1,Middle Agulhas,Agulhas central
+159,47.1.3,DIVISION,Atlantic,47,47.1,47.1.3,,,FAO 47.1.3,Cunene,Cunene
+166,27.10.b,DIVISION,Atlantic,27,27.10,27.10.b,,,FAO 27.10.b,Northeast Atlantic South (Division 27.10.b),Fondos de las Azores (División 27.10.b)
+160,47.1.4,DIVISION,Atlantic,47,47.1,47.1.4,,,FAO 47.1.4,Cape Cross,Cabo Cross
+161,47.1.5,DIVISION,Atlantic,47,47.1,47.1.5,,,FAO 47.1.5,Orange River,Río Orange
+231,34.1.31,SUBDIVISION,Atlantic,34,34.1,34.1.3,34.1.31,,FAO 34.1.31,"Atlantic, East central / 34.1.31",Atl EC / 34.1.31
+162,47.1.6,DIVISION,Atlantic,47,47.1,47.1.6,,,FAO 47.1.6,Cape of Good Hope,Cabo de Buena Esperanza
+173,21.6.D,DIVISION,Atlantic,21,21.6,21.6.D,,,FAO 21.6.D,"Atlantic, Northwest / 21.6.D",Atl NW / 21.6.D
+163,27.9.a,DIVISION,Atlantic,27,27.9,27.9.a,,,FAO 27.9.a,Portuguese Waters - East (Division 27.9.a),Aguas Portuguesas - este (División 27.9.a)
+164,27.8.c,DIVISION,Atlantic,27,27.8,27.8.c,,,FAO 27.8.c,Bay of Biscay - South (Division 27.8.c),Golfo de Vizcaya - sur (División 27.8.c)
+167,27.8.e,DIVISION,Atlantic,27,27.8,27.8.e,,,FAO 27.8.e,West of Bay of Biscay (Division 27.8.e),Oeste del Golfo de Vizcaya (División 27.8.e)
+168,27.8.d,DIVISION,Atlantic,27,27.8,27.8.d,,,FAO 27.8.d,Bay of Biscay - Offshore (Division 27.8.d),Golfo de Vizcaya - alta mar (División 27.8.d)
+169,21.3.N,DIVISION,Atlantic,21,21.3,21.3.N,,,FAO 21.3.N,"Atlantic, Northwest / 21.3.N",Atl NW / 21.3.N
+170,21.4.V,DIVISION,Atlantic,21,21.4,21.4.V,,,FAO 21.4.V,"Atlantic, Northwest / 21.4.V",Atl NW / 21.4.V
+232,34.1.32,SUBDIVISION,Atlantic,34,34.1,34.1.3,34.1.32,,FAO 34.1.32,"Atlantic, East central / 34.1.32",Atl EC / 34.1.32
+171,21.5.Z,DIVISION,Atlantic,21,21.5,21.5.Z,,,FAO 21.5.Z,"Atlantic, Northwest / 21.5.Z",Atl NW / 21.5.Z
+233,34.3.11,SUBDIVISION,Atlantic,34,34.3,34.3.1,34.3.11,,FAO 34.3.11,"Atlantic, East central / 34.3.11",Atl EC / 34.3.11
+172,21.6.B,DIVISION,Atlantic,21,21.6,21.6.B,,,FAO 21.6.B,"Atlantic, Northwest / 21.6.B",Atl NW / 21.6.B
+174,21.6.E,DIVISION,Atlantic,21,21.6,21.6.E,,,FAO 21.6.E,"Atlantic, Northwest / 21.6.E",Atl NW / 21.6.E
+175,21.6.F,DIVISION,Atlantic,21,21.6,21.6.F,,,FAO 21.6.F,"Atlantic, Northwest / 21.6.F",Atl NW / 21.6.F
+176,21.6.G,DIVISION,Atlantic,21,21.6,21.6.G,,,FAO 21.6.G,"Atlantic, Northwest / 21.6.G",Atl NW / 21.6.G
+187,21.6.A,DIVISION,Atlantic,21,21.6,21.6.A,,,FAO 21.6.A,"Atlantic, Northwest / 21.6.A",Atl NW / 21.6.A
+177,21.6.H,DIVISION,Atlantic,21,21.6,21.6.H,,,FAO 21.6.H,"Atlantic, Northwest / 21.6.H",Atl NW / 21.6.H
+178,21.0.A,DIVISION,Atlantic,21,21.0,21.0.A,,,FAO 21.0.A,"Atlantic, Northwest / 21.0.A",Atl NW / 21.0.A
+179,21.1.A,DIVISION,Atlantic,21,21.1,21.1.A,,,FAO 21.1.A,"Atlantic, Northwest / 21.1.A",Atl NW / 21.1.A
+180,21.1.B,DIVISION,Atlantic,21,21.1,21.1.B,,,FAO 21.1.B,"Atlantic, Northwest / 21.1.B",Atl NW / 21.1.B
+181,21.0.B,DIVISION,Atlantic,21,21.0,21.0.B,,,FAO 21.0.B,"Atlantic, Northwest / 21.0.B",Atl NW / 21.0.B
+182,21.1.C,DIVISION,Atlantic,21,21.1,21.1.C,,,FAO 21.1.C,"Atlantic, Northwest / 21.1.C",Atl NW / 21.1.C
+197,47.C.1,DIVISION,Atlantic,47,47.C,47.C.1,,,FAO 47.C.1,SEAFO division C.1,División SEAFO C.1
+198,47.B.0,DIVISION,Atlantic,47,47.B,47.B.0,,,FAO 47.B.0,SEAFO division B.0,División SEAFO B.0
+183,21.4.W,DIVISION,Atlantic,21,21.4,21.4.W,,,FAO 21.4.W,"Atlantic, Northwest / 21.4.W",Atl NW / 21.4.W
+199,27.8.a,DIVISION,Atlantic,27,27.8,27.8.a,,,FAO 27.8.a,Bay of Biscay - North (Division 27.8.a),Golfo de Vizcaya - norte (División 27.8.a)
+184,21.4.S,DIVISION,Atlantic,21,21.4,21.4.S,,,FAO 21.4.S,"Atlantic, Northwest / 21.4.S",Atl NW / 21.4.S
+185,21.3.K,DIVISION,Atlantic,21,21.3,21.3.K,,,FAO 21.3.K,"Atlantic, Northwest / 21.3.K",Atl NW / 21.3.K
+186,21.2.J,DIVISION,Atlantic,21,21.2,21.2.J,,,FAO 21.2.J,"Atlantic, Northwest / 21.2.J",Atl NW / 21.2.J
+188,21.6.C,DIVISION,Atlantic,21,21.6,21.6.C,,,FAO 21.6.C,"Atlantic, Northwest / 21.6.C",Atl NW / 21.6.C
+200,27.7.j,DIVISION,Atlantic,27,27.7,27.7.j,,,FAO 27.7.j,Southwest of Ireland - East (Division 27.7.j),Sudoeste de Irlanda - Este (División 27.7.j)
+189,21.4.R,DIVISION,Atlantic,21,21.4,21.4.R,,,FAO 21.4.R,"Atlantic, Northwest / 21.4.R",Atl NW / 21.4.R
+201,27.7.h,DIVISION,Atlantic,27,27.7,27.7.h,,,FAO 27.7.h,Celtic Sea South (Division 27.7.h),Mar Céltico sur (División 27.7.h)
+243,87.1.14,SUBDIVISION,Pacific,87,87.1,87.1.1,87.1.14,,FAO 87.1.14,"Pacific, Southeast / 87.1.14","Pacific, Southeast / 87.1.14"
+190,21.3.L,DIVISION,Atlantic,21,21.3,21.3.L,,,FAO 21.3.L,"Atlantic, Northwest / 21.3.L",Atl NW / 21.3.L
+191,21.3.P,DIVISION,Atlantic,21,21.3,21.3.P,,,FAO 21.3.P,"Atlantic, Northwest / 21.3.P",Atl NW / 21.3.P
+192,21.4.X,DIVISION,Atlantic,21,21.4,21.4.X,,,FAO 21.4.X,"Atlantic, Northwest / 21.4.X",Atl NW / 21.4.X
+244,87.1.25,SUBDIVISION,Pacific,87,87.1,87.1.2,87.1.25,,FAO 87.1.25,"Pacific, Southeast / 87.1.25","Pacific, Southeast / 87.1.25"
+193,21.5.Y,DIVISION,Atlantic,21,21.5,21.5.Y,,,FAO 21.5.Y,"Atlantic, Northwest / 21.5.Y",Atl NW / 21.5.Y
+194,21.4.T,DIVISION,Atlantic,21,21.4,21.4.T,,,FAO 21.4.T,"Atlantic, Northwest / 21.4.T",Atl NW / 21.4.T
+195,47.D.1,DIVISION,Atlantic,47,47.D,47.D.1,,,FAO 47.D.1,SEAFO division D.1,División SEAFO D.1
+196,47.B.1,DIVISION,Atlantic,47,47.B,47.B.1,,,FAO 47.B.1,SEAFO division B.1,División SEAFO B.1
+202,27.7.f,DIVISION,Atlantic,27,27.7,27.7.f,,,FAO 27.7.f,Bristol Channel (Division 27.7.f),Canal de Bristol (División 27.7.f)
+203,27.7.g,DIVISION,Atlantic,27,27.7,27.7.g,,,FAO 27.7.g,Celtic Sea North (Division 27.7.g),Mar Céltico norte (División 27.7.g)
+204,27.12.c,DIVISION,Atlantic,27,27.12,27.12.c,,,FAO 27.12.c,Central Northeast Atlantic - South (Division 27.12.c),Norte de las Azores (División 27.12.c)
+211,27.6.b,DIVISION,Atlantic,27,27.6,27.6.b,,,FAO 27.6.b,Rockall (Division 27.6.b),Rockall (División 27.6.b)
+251,87.2.13,SUBDIVISION,Pacific,87,87.2,87.2.1,87.2.13,,FAO 87.2.13,87.2.13,87.2.13
+205,27.7.k,DIVISION,Atlantic,27,27.7,27.7.k,,,FAO 27.7.k,Southwest of Ireland - West (Division 27.7.k),Sudoeste de Irlanda - Oeste (División 27.7.k)
+206,27.4.c,DIVISION,Atlantic,27,27.4,27.4.c,,,FAO 27.4.c,Southern North Sea (Division 27.4.c),Mar del Norte meridional (División 27.4.c)
+207,27.7.c,DIVISION,Atlantic,27,27.7,27.7.c,,,FAO 27.7.c,Porcupine Bank (Division 27.7.c),Porcupine Bank (División 27.7.c)
+208,27.3.d,DIVISION,Atlantic,27,27.3,27.3.d,,,FAO 27.3.d,Baltic Sea (Division 27.3.d),Mar Báltico (División 27.3.d)
+222,27.6.a,DIVISION,Atlantic,27,27.6,27.6.a,,,FAO 27.6.a,Northwest Coast of Scotland and North Ireland or as the West of Scotland (Division 27.6.a),Costa nord-occidental de Escocia e Irlanda del Norte o el Oeste de Escocia (División 27.6.a)
+252,87.2.24,SUBDIVISION,Pacific,87,87.2,87.2.2,87.2.24,,FAO 87.2.24,87.2.24,87.2.24
+209,"27.3.b, c",DIVISION,Atlantic,27,27.3,"27.3.b, c",,,"FAO 27.3.b, c",,
+210,27.4.b,DIVISION,Atlantic,27,27.4,27.4.b,,,FAO 27.4.b,Central North Sea (Division 27.4.b),Mar del Norte central (División 27.4.b)
+226,27.1.b,DIVISION,Atlantic,27,27.1,27.1.b,,,FAO 27.1.b,Barents Sea Non-NEAFC Regulatory Area (Division 27.1.b),Mar de Barents - Non-CPANE (División  27.1.b)
+212,27.5.b,DIVISION,Atlantic,27,27.5,27.5.b,,,FAO 27.5.b,Faroes Grounds (Division 27.5.b),Fondos de las Feroe (División 27.5.b)
+213,27.12.a,DIVISION,Atlantic,27,27.12,27.12.a,,,FAO 27.12.a,Southern mid-Atlantic Ridge (Division 27.12.a),Norte de las Azores (División 27.12.a)
+214,27.5.a,DIVISION,Atlantic,27,27.5,27.5.a,,,FAO 27.5.a,Iceland Grounds (Division 27.5.a),Fondos de Islandia (División 27.5.a)
+215,27.14.b,DIVISION,Atlantic,27,27.14,27.14.b,,,FAO 27.14.b,Southeast Greenland (Division 27.14.b),Groenlandia sudoriental (División 27.14.b)
+216,27.2.a,DIVISION,Atlantic,27,27.2,27.2.a,,,FAO 27.2.a,Norwegian Sea (Division 27.2.a),Mar de Noruega (División 27.2.a)
+217,27.2.b,DIVISION,Atlantic,27,27.2,27.2.b,,,FAO 27.2.b,Spitzbergen and Bear Island (Division 27.2.b),Spitzbergen e Islas Osos (División 27.2.b)
+218,27.1.a,DIVISION,Atlantic,27,27.1,27.1.a,,,FAO 27.1.a,Barents Sea - NEAFC Regulatory Area (Division 27.1.a),Mar de Barents - CPANE (División 27.1.a)
+219,27.14.a,DIVISION,Atlantic,27,27.14,27.14.a,,,FAO 27.14.a,Northeast Greenland (Division 27.14.a),Groenlandia nordoriental (División 27.14.a)
+253,87.2.14,SUBDIVISION,Pacific,87,87.2,87.2.1,87.2.14,,FAO 87.2.14,87.2.14,87.2.14
+254,87.2.25,SUBDIVISION,Pacific,87,87.2,87.2.2,87.2.25,,FAO 87.2.25,87.2.25,87.2.25
+220,27.7.e,DIVISION,Atlantic,27,27.7,27.7.e,,,FAO 27.7.e,Western English Channel (Division 27.7.e),Canal de la Mancha occidental (División 27.7.e)
+221,27.7.d,DIVISION,Atlantic,27,27.7,27.7.d,,,FAO 27.7.d,Eastern English Channel (Division 27.7.d),Canal de la Mancha oriental (División 27.7.d)
+223,27.7.b,DIVISION,Atlantic,27,27.7,27.7.b,,,FAO 27.7.b,West of Ireland (Division 27.7.b),Oeste de Irlanda (División 27.7.b)
+228,34.1.11,SUBDIVISION,Atlantic,34,34.1,34.1.1,34.1.11,,FAO 34.1.11,"Atlantic, East central / 34.1.11",Atl EC / 34.1.11
+229,34.1.12,SUBDIVISION,Atlantic,34,34.1,34.1.1,34.1.12,,FAO 34.1.12,"Atlantic, East central / 34.1.12",Atl EC / 34.1.12
+224,27.7.a,DIVISION,Atlantic,27,27.7,27.7.a,,,FAO 27.7.a,Irish Sea (Division 27.7.a),Mar de Irlanda (División 27.7.a)
+225,27.4.a,DIVISION,Atlantic,27,27.4,27.4.a,,,FAO 27.4.a,Northern North Sea (Division 27.4.a),Mar del Norte septentrional (División 27.4.a)
+227,27.3.a,DIVISION,Atlantic,27,27.3,27.3.a,,,FAO 27.3.a,Skagerrak and Kattegat (Division 27.3.a),"Skagerrak, Kattegat (División 27.3.a)"
+234,34.3.12,SUBDIVISION,Atlantic,34,34.3,34.3.1,34.3.12,,FAO 34.3.12,"Atlantic, East central / 34.3.12",Atl EC / 34.3.12
+236,87.1.11,SUBDIVISION,Pacific,87,87.1,87.1.1,87.1.11,,FAO 87.1.11,"Pacific, Southeast / 87.1.11","Pacific, Southeast / 87.1.11"
+235,34.3.13,SUBDIVISION,Atlantic,34,34.3,34.3.1,34.3.13,,FAO 34.3.13,"Atlantic, East central / 34.3.13",Atl EC / 34.3.13
+237,87.1.21,SUBDIVISION,Pacific,87,87.1,87.1.2,87.1.21,,FAO 87.1.21,"Pacific, Southeast / 87.1.21","Pacific, Southeast / 87.1.21"
+238,87.1.22,SUBDIVISION,Pacific,87,87.1,87.1.2,87.1.22,,FAO 87.1.22,"Pacific, Southeast / 87.1.22","Pacific, Southeast / 87.1.22"
+255,87.2.15,SUBDIVISION,Pacific,87,87.2,87.2.1,87.2.15,,FAO 87.2.15,87.2.15,87.2.15
+239,87.1.12,SUBDIVISION,Pacific,87,87.1,87.1.1,87.1.12,,FAO 87.1.12,"Pacific, Southeast / 87.1.12","Pacific, Southeast / 87.1.12"
+240,87.1.23,SUBDIVISION,Pacific,87,87.1,87.1.2,87.1.23,,FAO 87.1.23,"Pacific, Southeast / 87.1.23","Pacific, Southeast / 87.1.23"
+241,87.1.13,SUBDIVISION,Pacific,87,87.1,87.1.1,87.1.13,,FAO 87.1.13,"Pacific, Southeast / 87.1.13","Pacific, Southeast / 87.1.13"
+245,87.1.15,SUBDIVISION,Pacific,87,87.1,87.1.1,87.1.15,,FAO 87.1.15,"Pacific, Southeast / 87.1.15","Pacific, Southeast / 87.1.15"
+246,87.2.21,SUBDIVISION,Pacific,87,87.2,87.2.2,87.2.21,,FAO 87.2.21,87.2.21,87.2.21
+247,87.2.11,SUBDIVISION,Pacific,87,87.2,87.2.1,87.2.11,,FAO 87.2.11,87.2.11,87.2.11
+248,87.2.22,SUBDIVISION,Pacific,87,87.2,87.2.2,87.2.22,,FAO 87.2.22,87.2.22,87.2.22
+249,87.2.12,SUBDIVISION,Pacific,87,87.2,87.2.1,87.2.12,,FAO 87.2.12,87.2.12,87.2.12
+250,87.2.23,SUBDIVISION,Pacific,87,87.2,87.2.2,87.2.23,,FAO 87.2.23,87.2.23,87.2.23
+256,87.2.26,SUBDIVISION,Pacific,87,87.2,87.2.2,87.2.26,,FAO 87.2.26,87.2.26,87.2.26
+261,87.3.11,SUBDIVISION,Pacific,87,87.3,87.3.1,87.3.11,,FAO 87.3.11,87.3.11,87.3.11
+262,87.3.22,SUBDIVISION,Pacific,87,87.3,87.3.2,87.3.22,,FAO 87.3.22,87.3.22,87.3.22
+263,87.3.23,SUBDIVISION,Pacific,87,87.3,87.3.2,87.3.23,,FAO 87.3.23,87.3.23,87.3.23
+264,27.10.a.2,SUBDIVISION,Atlantic,27,27.10,27.10.a,27.10.a.2,,FAO 27.10.a.2,Azores Grounds Non-NEAFC Regulatory Area (Subdivision 27.10.a.2),Fondos de las Azores - Non-CPANE (Subdivisión 27.10.a.2)
+265,27.10.a.1,SUBDIVISION,Atlantic,27,27.10,27.10.a,27.10.a.1,,FAO 27.10.a.1,Azores Grounds - Parts of the NEAFC Regulatory Area (Subdivision 27.10.a.1),Fondos de las Azores - Parte de CPANE (Subdivisión 27.10.a.1)
+266,27.9.b.1,SUBDIVISION,Atlantic,27,27.9,27.9.b,27.9.b.1,,FAO 27.9.b.1,Portuguese Waters - West Parts in NEAFC Regulatory Area (Subdivision 27.9.b.1),Aguas Portuguesas - oeste - Partes de CPANE (Subdivisión 27.9.b.1)
+267,27.9.b.2,SUBDIVISION,Atlantic,27,27.9,27.9.b,27.9.b.2,,FAO 27.9.b.2,Portuguese Waters - West Non-NEAFC Regulatory Area (Subdivision 27.9.b.2),Aguas Portuguesas - oeste Non-CPANE (Subdivisión 27.9.b.2)
+268,58.4.4.a,SUBDIVISION,Indian,58,58.4,58.4.4,58.4.4.a,,FAO 58.4.4.a,Indian Antarctic 58.4.4.a,Ind Antar 58.4.4.a
+269,58.4.4.b,SUBDIVISION,Indian,58,58.4,58.4.4,58.4.4.b,,FAO 58.4.4.b,Indian Antarctic 58.4.4.b,Ind Antar 58.4.4.b
+270,87.3.12,SUBDIVISION,Pacific,87,87.3,87.3.1,87.3.12,,FAO 87.3.12,87.3.12,87.3.12
+271,87.3.13,SUBDIVISION,Pacific,87,87.3,87.3.1,87.3.13,,FAO 87.3.13,87.3.13,87.3.13
+272,58.4.3.b,SUBDIVISION,Indian,58,58.4,58.4.3,58.4.3.b,,FAO 58.4.3.b,Indian Antarctic 58.4.3.b,Ind Antar 58.4.3.b
+273,58.4.3.a,SUBDIVISION,Indian,58,58.4,58.4.3,58.4.3.a,,FAO 58.4.3.a,Indian Antarctic 58.4.3.a,Ind Antar 58.4.3.a
+274,27.8.e.1,SUBDIVISION,Atlantic,27,27.8,27.8.e,27.8.e.1,,FAO 27.8.e.1,West of Bay of Biscay - Parts in NEAFC Regulatory Area (Subdivision 27.8.e.1),Oeste del Golfo de Vizcaya - Partes de CPANE (Subdivisión 27.8.e.1)
+275,27.8.d.1,SUBDIVISION,Atlantic,27,27.8,27.8.d,27.8.d.1,,FAO 27.8.d.1,Bay of Biscay - Offshore - Parts in NEAFC Regulatory Area (Subdivision 27.8.d.1),Golfo de Vizcaya - alta mar - Partes de CPANE (Subdivisión 27.8.d.1)
+276,21.4.5.s,SUBDIVISION,Atlantic,21,21.4,21.4.V,21.4.5.s,,FAO 21.4.5.s,,
+277,21.5.Z.e,SUBDIVISION,Atlantic,21,21.5,21.5.Z,21.5.Z.e,,FAO 21.5.Z.e,"Atlantic, Northwest / 21.5.Z.e",Atl NW / 21.5.Z.e
+278,21.5.Z.w,SUBDIVISION,Atlantic,21,21.5,21.5.Z,21.5.Z.w,,FAO 21.5.Z.w,"Atlantic, Northwest / 21.5.Z.w",Atl NW / 21.5.Z.w
+279,21.4.5.n,SUBDIVISION,Atlantic,21,21.4,21.4.V,21.4.5.n,,FAO 21.4.5.n,,
+280,21.3.P.s,SUBDIVISION,Atlantic,21,21.3,21.3.P,21.3.P.s,,FAO 21.3.P.s,"Atlantic, Northwest / 21.3.P.s",Atl NW / 21.3.P.s
+281,21.3.P.n,SUBDIVISION,Atlantic,21,21.3,21.3.P,21.3.P.n,,FAO 21.3.P.n,"Atlantic, Northwest / 21.3.P.n",Atl NW / 21.3.P.n
+282,27.8.d.2,SUBDIVISION,Atlantic,27,27.8,27.8.d,27.8.d.2,,FAO 27.8.d.2,Bay of Biscay - Offshore Non-NEAFC Regulatory Area (Subdivision 27.8.d.2),Golfo de Vizcaya - alta mar Non-CPANE (Subdivisión 27.8.d.2)
+283,27.7.j.1,SUBDIVISION,Atlantic,27,27.7,27.7.j,27.7.j.1,,FAO 27.7.j.1,Southwest of Ireland - East - Parts of the NEAFC Regulatory Area (Subdivision 27.7.j.1),Sudoeste de Irlanda - Este - Parte de CPANE (Subdivisión 27.7.j.1)
+291,27.3.d.26,SUBDIVISION,Atlantic,27,27.3,27.3.d,27.3.d.26,,FAO 27.3.d.26,Southern Central Baltic - East (Subdivision 27.3.d.26),Báltico centro-meridional - Este (Subdivisión 27.3.d.26)
+284,27.7.k.1,SUBDIVISION,Atlantic,27,27.7,27.7.k,27.7.k.1,,FAO 27.7.k.1,Southwest of Ireland - West - Part of the NEAFC Regulatory Area (Subdivision 27.7.k.1),Sudoeste de Irlanda - Oeste - Parte de CPANE (Subdivisión 27.7.k.1)
+285,27.7.k.2,SUBDIVISION,Atlantic,27,27.7,27.7.k,27.7.k.2,,FAO 27.7.k.2,Southwest of Ireland - West - Part of the Non-NEAFC Area I (Subdivision 27.7.k.2),Sudoeste de Irlanda - Oeste Non-CPANE (Subdivisión 27.7.k.2)
+286,27.7.j.2,SUBDIVISION,Atlantic,27,27.7,27.7.j,27.7.j.2,,FAO 27.7.j.2,Southwest of Ireland - East Non-NEAFC Regulatory Area (Subdivision 27.7.j.2),Sudoeste de Irlanda - Este Non-CPANE (Subdivisión 27.7.j.2)
+287,27.7.c.1,SUBDIVISION,Atlantic,27,27.7,27.7.c,27.7.c.1,,FAO 27.7.c.1,Porcupine Bank - NEAFC Regulatory Area (Subdivision 27.7.c.1),Porcupine Bank - CPANE (Subdivisión 27.7.c.1)
+288,27.7.c.2,SUBDIVISION,Atlantic,27,27.7,27.7.c,27.7.c.2,,FAO 27.7.c.2,Porcupine Bank Non-NEAFC Regulatory Area (Subdivision 27.7.c.2),Porcupine Bank Non-CPANE (Subdivisión 27.7.c.2)
+301,27.2.a.1,SUBDIVISION,Atlantic,27,27.2,27.2.a,27.2.a.1,,FAO 27.2.a.1,Norwegian Sea - NEAFC Regulatory Area (Division 27.2.a.1),Mar de Noruega - CPANE (División 27.2.a.1)
+302,27.2.b.1,SUBDIVISION,Atlantic,27,27.2,27.2.b,27.2.b.1,,FAO 27.2.b.1,Spitzbergen and Bear Island - NEAFC Regulatory Area (Division 27.2.b.1),Spitzbergen e Islas Osos - CPANE (División 27.2.b.1)
+303,27.2.b.2,SUBDIVISION,Atlantic,27,27.2,27.2.b,27.2.b.2,,FAO 27.2.b.2,Spitzbergen and Bear Island Non-NEAFC Regulatory Area (Division 27.2.b.2),Spitzbergen e Islas Osos Non-CPANE (División 27.2.b.2)
+289,27.3.d.24,SUBDIVISION,Atlantic,27,27.3,27.3.d,27.3.d.24,,FAO 27.3.d.24,Baltic West of Bornholm (Subdivision 27.3.d.24),Báltico al oeste de Bornholm (Subdivisión 27.3.d.24)
+290,27.3.b.23,SUBDIVISION,Atlantic,27,27.3,"27.3.b, c",27.3.b.23,,FAO 27.3.b.23,Sound (Subdivision 27.3.b.23),Sund (Subdivisión 27.3.b.23)
+292,27.6.b.1,SUBDIVISION,Atlantic,27,27.6,27.6.b,27.6.b.1,,FAO 27.6.b.1,Rockall - Part of NEAFC area I (Subdivision 27.6.b.1),Rockall - Parte de CPANE (Subdivisión 27.6.b.1)
+293,27.6.b.2,SUBDIVISION,Atlantic,27,27.6,27.6.b,27.6.b.2,,FAO 27.6.b.2,Rockall Non-NEAFC area (Subdivision 27.6.b.2),Rockall Non-CPANE (Subdivisión 27.6.b.2)
+294,27.5.b.1,SUBDIVISION,Atlantic,27,27.5,27.5.b,27.5.b.1,,FAO 27.5.b.1,Faroe Plateau (Subdivision 27.5.b.1),Planicie de las Feroe (Subdivisión 27.5.b.1)
+295,27.12.a.1,SUBDIVISION,Atlantic,27,27.12,27.12.a,27.12.a.1,,FAO 27.12.a.1,Subdivision 27.12.a.1 - NEAFC Regulatory Area,Subdivisión 27.12.a.1 - CPANE
+296,27.12.a.4,SUBDIVISION,Atlantic,27,27.12,27.12.a,27.12.a.4,,FAO 27.12.a.4,Subdivision 27.12.a.4 Non-NEAFC Regulatory Area,Subdivisión 27.12.a.4 - Non-CPANE
+297,27.5.a.1,SUBDIVISION,Atlantic,27,27.5,27.5.a,27.5.a.1,,FAO 27.5.a.1,Northern Reykjanes Ridge (Subdivision 27.5.a.1),Fondos de Islandia (Subdivisión 27.5.a.1)
+298,27.14.b.1,SUBDIVISION,Atlantic,27,27.14,27.14.b,27.14.b.1,,FAO 27.14.b.1,Southeast Greenland - Parts of NEAFC Regulatory Area (Subdivision 27.14.b.1),Groenlandia sudoriental - Partes de CPANE (Subdivisión 27.14.b.1)
+299,27.5.a.2,SUBDIVISION,Atlantic,27,27.5,27.5.a,27.5.a.2,,FAO 27.5.a.2,Icelandic Shelf (Subdivision 27.5.a.2),Fondos de Islandia (Subdivisión 27.5.a.2)
+300,27.14.b.2,SUBDIVISION,Atlantic,27,27.14,27.14.b,27.14.b.2,,FAO 27.14.b.2,Southeast Greenland Non-NEAFC Regulatory Area (Subdivision 27.14.b.2),Groenlandia sudoriental Non-CPANE (Subdivisión 27.14.b.2)
+304,27.8.e.2,SUBDIVISION,Atlantic,27,27.8,27.8.e,27.8.e.2,,FAO 27.8.e.2,West of Bay of Biscay Non-NEAFC Regulatory Area (Subdivision 27.8.e.2),Oeste del Golfo de Vizcaya Non-CPANE (Subdivisión 27.8.e.2)
+305,27.5.b.2,SUBDIVISION,Atlantic,27,27.5,27.5.b,27.5.b.2,,FAO 27.5.b.2,Faroe Bank (Subdivision 27.5.b.2),Banco de las Feroe (Subdivisión 27.5.b.2)
+306,27.12.a.3,SUBDIVISION,Atlantic,27,27.12,27.12.a,27.12.a.3,,FAO 27.12.a.3,Subdivision 27.12.a.3 Non-NEAFC Regulatory Area,Subdivisión 27.12.a.3 - Non-CPANE
+307,27.12.a.2,SUBDIVISION,Atlantic,27,27.12,27.12.a,27.12.a.2,,FAO 27.12.a.2,Subdivision 27.12.a.2 - NEAFC Regulatory Area,Subdivisión 27.12.a.2 - CPANE
+308,27.2.a.2,SUBDIVISION,Atlantic,27,27.2,27.2.a,27.2.a.2,,FAO 27.2.a.2,Norwegian Sea Non-NEAFC Regulatory Area (Division 27.2.a.2),Mar de Noruega Non-CPANE (División 27.2.a.2)
+309,27.3.c.22,SUBDIVISION,Atlantic,27,27.3,"27.3.b, c",27.3.c.22,,FAO 27.3.c.22,Belt Sea (Subdivision 27.3.c.22),Mar de Belt (Subdivisión 27.3.c.22)
+310,27.3.d.27,SUBDIVISION,Atlantic,27,27.3,27.3.d,27.3.d.27,,FAO 27.3.d.27,West of Gotland (Subdivision 27.3.d.27),Oeste de Gotland (Subdivisión 27.3.d.27)
+311,27.3.d.28,SUBDIVISION,Atlantic,27,27.3,27.3.d,27.3.d.28,,FAO 27.3.d.28,East of Gotland or Gulf of Riga (Subdivision 27.3.d.28),Este de Gotland o Golfo de Riga (Subdivisión 27.3.d.28)
+317,27.3.a.21,SUBDIVISION,Atlantic,27,27.3,27.3.a,27.3.a.21,,FAO 27.3.a.21,Kattegat (Subdivision 27.3.a.21),Kattegat (Subdivisión 27.3.a.21)
+312,27.3.d.29,SUBDIVISION,Atlantic,27,27.3,27.3.d,27.3.d.29,,FAO 27.3.d.29,Archipelago Sea (Subdivision 27.3.d.29),Mar Archipiélago (Subdivisión 27.3.d.29)
+320,21.5.Z.c,SUBUNIT,Atlantic,21,21.5,21.5.Z,21.5.Z.e,21.5.Z.c,FAO 21.5.Z.c,"Atlantic, Northwest / 21.5.Z.c",Atl NW / 21.5.Z.c
+313,27.3.d.32,SUBDIVISION,Atlantic,27,27.3,27.3.d,27.3.d.32,,FAO 27.3.d.32,Gulf of Finland (Subdivision 27.3.d.32),Golfo de Finlandia (Subdivisión 27.3.d.32)
+321,27.5.b.1.a,SUBUNIT,Atlantic,27,27.5,27.5.b,27.5.b.1,27.5.b.1.a,FAO 27.5.b.1.a,Faroe Plateau - Part of NEAFC Regulatory Area (Unit 27.5.b.1.a),Planicie de las Feroe - Parte de CPANE (Unidad 27.5.b.1.a)
+314,27.3.d.30,SUBDIVISION,Atlantic,27,27.3,27.3.d,27.3.d.30,,FAO 27.3.d.30,Bothnian Sea (Subdivision 27.3.d.30),Golfo de Botnia meridional (Subdivisión 27.3.d.30)
+315,27.3.d.31,SUBDIVISION,Atlantic,27,27.3,27.3.d,27.3.d.31,,FAO 27.3.d.31,Bothnian Bay (Subdivision 27.3.d.31),Golfo de Botnia meridional (Subdivisión 27.3.d.31)
+316,27.3.d.25,SUBDIVISION,Atlantic,27,27.3,27.3.d,27.3.d.25,,FAO 27.3.d.25,Southern Central Baltic - West (Subdivision 27.3.d.25),Báltico centro-meridional - Oeste (Subdivisión 27.3.d.25)
+318,27.3.a.20,SUBDIVISION,Atlantic,27,27.3,27.3.a,27.3.a.20,,FAO 27.3.a.20,Skagerrak (Subdivision 27.3.a.20),Skagerrak (Subdivisión 27.3.a.20)
+319,21.5.Z.u,SUBUNIT,Atlantic,21,21.5,21.5.Z,21.5.Z.e,21.5.Z.u,FAO 21.5.Z.u,"Atlantic, Northwest / 21.5.Z.u",Atl NW / 21.5.Z.u
+322,27.5.b.1.b,SUBUNIT,Atlantic,27,27.5,27.5.b,27.5.b.1,27.5.b.1.b,FAO 27.5.b.1.b,Faroe Plateau - Part of Non-NEAFC Regulatory Area (Unit 27.5.b.1.b),Planicie de las Feroe Non-CPANE (Unidad 27.5.b.1.b)
+323,27.3.d.28.2,SUBUNIT,Atlantic,27,27.3,27.3.d,27.3.d.28,27.3.d.28.2,FAO 27.3.d.28.2,East of Gotland (Open Sea) (Unit 27.3.d.28.2),Este de Gotland (Mar abierto) (Unidad 27.3.d.28.2)
+324,27.3.d.28.1,SUBUNIT,Atlantic,27,27.3,27.3.d,27.3.d.28,27.3.d.28.1,FAO 27.3.d.28.1,Gulf of Riga (Unit 27.3.d.28.1),Golfo de Riga (Unidad 27.3.d.28.1)
